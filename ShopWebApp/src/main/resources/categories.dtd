@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT categories (category*)>
+<!ATTLIST categories 
+		  xmlns CDATA "http://www.epam.by"
+		  xmlns:xsi CDATA "http://www.w3.org/2001/XMLSchema-instance"
+		  xsi:schemaLocation CDATA "http://www.epam.by categories.xsd"
+>
+
+<!ELEMENT category (subcategories)>
+<!ATTLIST category name CDATA #REQUIRED>
+
+<!ELEMENT subcategories (subcategory*)>
+
+<!ELEMENT subcategory (products)>
+<!ATTLIST subcategory name CDATA #REQUIRED>
+
+<!ELEMENT products (product*)>
+
+<!ELEMENT product (name, provider, model, date-of-issue, color, (price | not-in-stock))>
+<!ELEMENT name (#PCDATA) >
+<!ELEMENT provider (#PCDATA) >
+<!ELEMENT model (#PCDATA) >
+<!ELEMENT date-of-issue (#PCDATA) >
+<!ELEMENT color (#PCDATA) >
+<!ELEMENT price (#PCDATA) >
+<!ELEMENT not-in-stock EMPTY >

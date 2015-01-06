@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+		
+<schema xmlns="http://www.w3.org/2001/XMLSchema"
+        attributeFormDefault="unqualified"
+        elementFormDefault="qualified"
+        xmlns:tns="http://www.epam.by" 
+        targetNamespace="http://www.epam.by"> 
+		
+	<element name="categories">
+       <complexType>
+           <sequence>
+           		<element name="category" type="tns:category" minOccurs="0" maxOccurs="unbounded"/>
+           </sequence>
+       </complexType>
+    </element>	
+    
+    <complexType name="category">
+    	<sequence>
+        	<element name="subcategories" type="tns:subcategories"/>
+        </sequence>
+        <attribute name="name" type="string" use="required"/>      
+    </complexType>
+    
+    <complexType name="subcategories">
+    	<sequence>
+         	<element name="subcategory" type="tns:subcategory" minOccurs="0" maxOccurs="unbounded"/>
+         </sequence>     
+    </complexType>
+    
+    <complexType name="subcategory">
+    	<sequence>
+        	<element name="products" type="tns:products" />
+        </sequence>
+        <attribute name="name" type="string" use="required"/>      
+    </complexType>
+    
+    <complexType name="products">
+    	<sequence>
+        	<element name="product" type="tns:product" minOccurs="0" maxOccurs="unbounded"/>
+        </sequence>     
+    </complexType>
+    
+    <complexType name="product">
+    	<sequence>
+    		<element name="name" type="string"/>
+        	<element name="provider" type="string"/>
+        	<element name="model" type="tns:productModel"/>
+        	<element name="date-of-issue" type="tns:productDate"/>
+        	<element name="color" type="string"/>
+        	<choice>
+        		<element name="price" type="decimal"/>
+        		<element name="not-in-stock" type="tns:inStockState"/>
+        	</choice>      	
+        </sequence>     
+    </complexType>
+    
+    <simpleType name="inStockState">
+	  <restriction base="string">
+	  	<length value="0"/>
+	  </restriction>
+	</simpleType>
+    
+    <simpleType name="productModel">
+        <restriction base="string">
+            <pattern value="[a-zA-Z]{2}[0-9]{3}"/>
+        </restriction>
+    </simpleType>
+    
+    <simpleType name="productDate">
+        <restriction base="string">
+            <pattern value="((0[1-9]|[1-2]\d|3[01])-(0[13578]|1[02])|([0-2]\d|30)-(0[469]|11)|(0[1-9]|1\d|2[0-8])-02)-\d{4}|(0[1-9]|[12]\d)-02-(([02468][048]|[13579][26])00|(\d{2}([02468][48]|[2468][048]|[13579][26])))"/>
+            <length value="10"/>
+        </restriction>
+    </simpleType>
+		
+</schema>

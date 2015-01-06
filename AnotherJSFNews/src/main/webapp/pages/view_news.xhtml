@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:f="http://java.sun.com/jsf/core"      
+      xmlns:h="http://java.sun.com/jsf/html"
+      xmlns:ui="http://java.sun.com/jsf/facelets">
+      
+     <f:metadata>
+     	<f:viewParam name="id" value="#{newsManager.newsMessage.id}"/>
+     	<f:viewAction action="#{newsManager.setCurrentPage('view_news')}"/>
+     	<f:viewAction action="#{newsManager.setPreviousPage('view_news')}"/>
+	    <f:viewAction action="#{newsManager.view}"/>
+	</f:metadata>
+	
+    <h:body>
+    	<ui:composition template="/pages/template/page_template.xhtml">
+    	
+    	<ui:define name="page_title">#{newsManager.newsMessage.title}</ui:define>
+    	
+    	<ui:define name="main_content_body">
+    	
+    		<h:outputScript name="view_news_delete.js" library="js" target="head"/>
+			
+			<div class="main-title">#{msg['viewnews.main.title']}</div>
+			
+			<div class="news-view"> 
+			
+				<div class="item">
+					<div class="left">
+						<label>#{msg['form.label.title']}</label>
+					</div>
+					<div class="view-content formatted-text">#{newsManager.newsMessage.title}</div>
+				</div><br/>
+				<div class="item">
+					<div class="left">
+						<label>#{msg['form.label.date']}</label>
+					</div>
+					<div class="view-content">
+						<h:outputText value="#{newsManager.newsMessage.date}" >
+				        	<f:convertDateTime pattern="#{msg['form.date.format']}"/>
+				 		</h:outputText>	
+					</div>
+				</div>
+				<div class="item">
+					<div class="left">
+						<label>#{msg['form.label.brief']}</label>
+					</div>
+					<div class="view-content formatted-text">#{newsManager.newsMessage.brief}</div>
+				</div>
+				<div class="item">
+					<div class="left">
+						<label>#{msg['form.label.content']}</label>
+					</div>
+					<div class="view-content formatted-text">#{newsManager.newsMessage.content}</div>
+				</div>	
+					
+				<h:form id="delete_form">
+					<h:selectBooleanCheckbox value="#{newsManager.selectedIds[newsManager.newsMessage.id]}" checked="checked" styleClass="hidden"/>
+					<h:commandButton value="#{msg['button.delete']}" action="#{newsManager.delete}" styleClass="button"/>
+				</h:form>
+				
+				<h:form>				
+					<h:commandButton value="#{msg['button.edit']}" action="edit_news?faces-redirect=true&amp;includeViewParams=true" styleClass="button"/>					
+				</h:form>
+			
+			</div>
+			
+			<div id="msg" class="hidden">#{msg['message.delete']}</div>
+      	
+    	</ui:define>
+    	
+    	</ui:composition> 
+    </h:body>
+ 
+</html>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:f="http://java.sun.com/jsf/core"      
+      xmlns:h="http://java.sun.com/jsf/html"
+      xmlns:ui="http://java.sun.com/jsf/facelets">
+      
+     <f:metadata>
+     	<f:viewParam name="id" value="#{newsManager.newsMessage.id}"/>
+     	<f:viewParam name="back" value="#{newsManager.previousPage}"/>
+     	<f:viewAction action="#{newsManager.setCurrentPage('edit_news')}"/>
+	</f:metadata>
+	
+    <h:body>
+    	<ui:composition template="/pages/template/page_template.xhtml">
+    	
+    	<ui:define name="page_title">#{msg['editnews.page.title']}</ui:define>
+    	
+    	<ui:define name="main_content_body">
+
+    		<h:outputScript name="edit_news.js" library="js" target="head"/>
+    		
+    		<div class="main-title">#{msg['editnews.main.title']}</div>
+ 
+    		<div class="news-view">	
+
+			<h:form id="save_form">					                  
+				 	
+				<div class="item">
+					<div class="left"><label>#{msg['form.label.title']}</label></div>
+					<div class="view-content">
+						<h:inputText id="news_title" value="#{newsManager.newsMessage.title}" 
+							required="true" requiredMessage="#{msg['error.form.required']}" 
+							validatorMessage="#{msg['error.form.title.wrong']}">
+							<f:validateLength maximum="100"/>
+						</h:inputText>						
+					</div>
+					<div class="error">
+						<h:message for="news_title"/>
+					</div>					 
+					<div id="mistake_title_required" class="hidden error">#{msg['error.form.required']}</div>
+					<div id="mistake_title_wrong" class="hidden error">#{msg['error.form.title.wrong']}</div>
+				</div>
+					
+				<div class="item">		
+					<div class="left"><label>#{msg['form.label.date']}</label></div>
+					<div class="view-content">
+					<h:inputText id="news_date" value="#{newsManager.newsMessage.date}">
+			        	<f:convertDateTime pattern="#{msg['form.date.format']}"/>	
+				 	</h:inputText>
+					</div>
+					<div class="error"><h:message for="news_date"/></div>
+					
+					<div id="mistake_format" class="hidden error">#{msg['error.form.date.format']}</div>
+					<div id="mistake_day" class="hidden error">#{msg['error.form.date.day']}</div>
+					<div id="mistake_month" class="hidden error">#{msg['error.form.date.month']}</div>	
+					<div id="mistake_31day_absence" class="hidden error">#{msg['error.form.date.31day']}</div>
+					<div id="mistake_leap_year" class="hidden error">#{msg['error.form.date.leapyear']}</div>
+					<div id="mistake_timelimit" class="hidden error">#{msg['error.form.date.timelimit']}</div>
+				</div>
+				
+				<div class="item">
+					<div class="left"><label>#{msg['form.label.brief']}</label></div>
+					<div class="view-content">
+						<h:inputTextarea id="news_brief" value="#{newsManager.newsMessage.brief}" rows="5" cols="40" 
+							altKey="#{msg['error.form.brief.wrong']}" 
+							required="true" requiredMessage="#{msg['error.form.required']}"
+							validatorMessage="#{msg['error.form.brief.wrong']}">
+							<f:validateLength maximum="500"/>
+						</h:inputTextarea>
+					</div>
+					<div class="error"><h:message for="news_brief"/></div>
+					<div id="mistake_brief_required" class="hidden error">#{msg['error.form.required']}</div>
+					<div id="mistake_brief_wrong" class="hidden error">#{msg['error.form.brief.wrong']}</div>
+				</div>
+				
+				<div class="item">
+					<div class="left"><label>#{msg['form.label.content']}</label></div>
+					<div class="view-content">
+						<h:inputTextarea id="news_content" value="#{newsManager.newsMessage.content}" rows="15" cols="40" 
+							altKey="#{msg['error.form.content.wrong']}"
+							required="true" requiredMessage="#{msg['error.form.required']}"
+							validatorMessage="#{msg['error.form.content.wrong']}">
+							<f:validateLength maximum="2048"/>
+						</h:inputTextarea>
+					</div>
+					<div class="error"><h:message for="news_content"/></div>
+					
+					<div id="mistake_content_required" class="hidden error">#{msg['error.form.required']}</div>
+					<div id="mistake_content_wrong" class="hidden error">#{msg['error.form.content.wrong']}</div>
+				</div>
+					
+				<div class="left-margin">
+					<h:commandButton value="#{msg['button.save']}" action="#{newsManager.save}" styleClass="button-edit">
+					
+					</h:commandButton>
+				</div>
+			
+			</h:form>
+			
+			<h:form>
+
+				<div class="right-margin">
+					<h:form>
+						<h:commandButton value="#{msg['button.cancel']}" action="#{newsManager.cancel}" styleClass="button-edit" />
+					</h:form>
+				</div>
+			</h:form>
+			
+			</div>
+    	
+    	</ui:define>
+    	
+    	</ui:composition> 
+    </h:body>
+ 
+</html>
+

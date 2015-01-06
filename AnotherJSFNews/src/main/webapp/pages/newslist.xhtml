@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:f="http://java.sun.com/jsf/core"      
+      xmlns:h="http://java.sun.com/jsf/html"
+      xmlns:ui="http://java.sun.com/jsf/facelets">
+      
+    <f:metadata>
+    	<f:viewAction action="#{newsManager.setCurrentPage('newslist')}"/>
+	    <f:viewAction action="#{newsManager.list}"/>
+	</f:metadata>
+      
+    <h:body>
+    	<ui:composition template="/pages/template/page_template.xhtml">
+    	
+    	<ui:define name="page_title">#{msg['newslist.page.title']}</ui:define>
+    	
+    	<ui:define name="main_content_body">
+
+    		<h:outputScript name="newslist_delete.js" library="js" target="head"/>
+			
+			<div class="main-title">#{msg['newslist.main.title']}</div>
+			
+			<h:form>
+				<!-- #{newsManager.currentLocale}<br/>
+				#{request}<br/>
+				#{msg['form.date.format']}<br/>
+				#{newsManager.newsMessage} -->
+				<ui:repeat var="news" value="#{newsManager.newsList}">	
+				
+				<div class="news">
+					<div class="left-column">
+						<div class="title">#{news.title}</div>
+						<div class="text">#{news.brief}</div>				
+					</div>
+					<div class="right-column">
+						<div class="item date">						
+							<h:outputText value="#{news.date}" >
+				            	<f:convertDateTime pattern="#{msg['form.date.format']}"/>
+				 			</h:outputText>	
+				 			<br/>		
+						</div>
+						<div class="item">
+							<h:link value="#{msg['button.view']}" outcome="view_news">
+								<f:param name="id" value="#{news.id}"/>
+							</h:link>	
+							<!-- <br/> -->
+							<h:commandLink action="#{newsManager.edit}" value="#{msg['button.edit']}">
+								<f:setPropertyActionListener target="#{newsManager.newsMessage.id}" value="#{news.id}" />
+								<f:setPropertyActionListener target="#{newsManager.previousPage}" value="newslist" />							
+								<f:param name="id" value="#{news.id}"/>
+								<f:param name="back" value="newslist"/>								
+							</h:commandLink> 											
+							<h:selectBooleanCheckbox styleClass="selected" value="#{newsManager.selectedIds[news.id]}"/>
+							<div class="filler"></div>	
+						</div>
+					</div>
+				</div>
+				
+				</ui:repeat>
+				
+				<div id="mistake" class="hidden error">#{msg['error.zero.selected.checkboxes']}</div>		
+				<div id="msg" class="hidden">#{msg['message.delete']}</div>
+			
+				<h:commandButton value="#{msg['button.delete']}" action="#{newsManager.delete}" styleClass="button"/>
+				
+			</h:form>	  
+    	
+    	</ui:define>
+    	
+    	</ui:composition> 
+    </h:body>
+ 
+</html>
+

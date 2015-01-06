@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<categories xmlns:categories="http://www.epam.by"
+        	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        	xsi:schemaLocation="http://www.epam.by categories.xsd">
+    <category name="food">
+   		<subcategories>
+   			<subcategory name="fruit">
+   				<products>
+   					<product>
+   						<name>apple</name>
+   						<provider>Poland</provider>
+   						<model>AP123</model>
+   						<date-of-issue>31-08-2014</date-of-issue>
+   						<color>red</color>
+   						<price>12.05</price>
+   					</product>
+   					<product>
+   						<name>pineapple</name>
+   						<provider>Africa</provider>
+   						<model>PI123</model>
+   						<date-of-issue>03-09-2014</date-of-issue>
+   						<color>yellow</color>
+   						<not-in-stock/>
+   					</product>
+   					<product>
+   						<name>pear</name>
+   						<provider>Poland</provider>
+   						<model>PE123</model>
+   						<date-of-issue>02-04-2014</date-of-issue>
+   						<color>Green</color>
+   						<price>9.05</price>
+   					</product>
+   				</products>	
+   			</subcategory>				
+   			<subcategory name="vegetables">
+   				<products>
+   					<product>
+   						<name>tomato</name>
+   						<provider>Brasil</provider>
+   						<model>TM123</model>
+   						<date-of-issue>13-09-2014</date-of-issue>
+   						<color>red</color>
+   						<price>4.05</price>
+   					</product>
+   					<product>
+   						<name>name</name>
+   						<provider>Belarus</provider>
+   						<model>CC123</model>
+   						<date-of-issue>06-09-2014</date-of-issue>
+   						<color>green</color>
+   						<price>8.35</price>
+   					</product>
+   					<product>
+   						<name>potato</name>
+   						<provider>Poland</provider>
+   						<model>PT123</model>
+   						<date-of-issue>09-04-2014</date-of-issue>
+   						<color>brown</color>
+   						<price>10.05</price>
+   					</product>
+   				</products>	
+   			</subcategory>	  			
+   		</subcategories>  
+    </category>
+    <category name="computers">
+   		<subcategories>
+   			<subcategory name="notebooks">
+   				<products>
+   					<product>
+   						<name>MacBook</name>
+   						<provider>Apple</provider>
+   						<model>AR131</model>
+   						<date-of-issue>31-08-2014</date-of-issue>
+   						<color>gray</color>
+   						<price>1300.00</price>
+   					</product>
+   					<product>
+   						<name>XO359H</name>
+   						<provider>ASUS</provider>
+   						<model>XC550</model>
+   						<date-of-issue>03-09-2014</date-of-issue>
+   						<color>white</color>
+   						<not-in-stock/>
+   					</product>
+   				</products>	
+   			</subcategory>
+   		</subcategories>  
+    </category>
+</categories>

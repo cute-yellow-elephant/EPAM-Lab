@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<faces-config xmlns="http://java.sun.com/xml/ns/javaee"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-facesconfig_2_1.xsd"
+    version="2.1">
+
+    <application>
+
+    	<resource-handler>org.omnifaces.resourcehandler.UnmappedResourceHandler</resource-handler>
+
+		<el-resolver>org.springframework.web.jsf.el.SpringBeanFacesELResolver</el-resolver>
+		
+		<locale-config>
+            <default-locale>en_US</default-locale>
+            <supported-locale>ru_RU</supported-locale>
+        </locale-config>
+        <resource-bundle>
+			<base-name>lang_properties.messages</base-name>
+			<var>msg</var>
+	   </resource-bundle>
+        
+  	</application>
+  	
+  <!-- 	<navigation-rule>
+		<from-view-id>/pages/newslist.xhtml</from-view-id>
+		<navigation-case>
+            <from-action>#{newsManager.view}</from-action>
+            <from-outcome>success</from-outcome>
+            <to-view-id>/pages/view_news.xhtml</to-view-id>  
+            <redirect />         
+        </navigation-case>
+        <navigation-case>
+            <from-action>#{newsManager.edit}</from-action>
+            <from-outcome>success</from-outcome>
+            <to-view-id>/pages/edit_news.xhtml</to-view-id>  
+            <redirect />         
+        </navigation-case>
+        <navigation-case>
+            <from-action>#{newsManager.localize}</from-action>
+            <from-outcome>success</from-outcome>
+            <to-view-id>/pages/newslist.xhtml</to-view-id>  
+            <redirect />         
+        </navigation-case>
+    </navigation-rule>
+    
+    <navigation-rule>
+		<from-view-id>/pages/edit_news.xhtml</from-view-id>
+        <navigation-case>
+            <from-action>#{newsManager.localize}</from-action>
+            <from-outcome>success</from-outcome>
+            <to-view-id>/pages/edit_news.xhtml</to-view-id>  
+            <redirect />         
+        </navigation-case>
+        <navigation-case>
+            <from-action>#{newsManager.save}</from-action>
+            <from-outcome>success</from-outcome>
+            <to-view-id>/pages/view_news.xhtml</to-view-id>          
+        </navigation-case>
+    </navigation-rule>
+    
+    <navigation-rule>
+		<from-view-id>/pages/view_news.xhtml</from-view-id>
+        <navigation-case>
+            <from-action>#{newsManager.localize}</from-action>
+            <from-outcome>success</from-outcome>
+            <to-view-id>/pages/view_news.xhtml</to-view-id>  
+            <redirect />         
+        </navigation-case>
+        <navigation-case>
+            <from-action>#{newsManager.edit}</from-action>
+            <from-outcome>success</from-outcome>
+            <to-view-id>/pages/edit_news.xhtml</to-view-id>  
+            <redirect />         
+        </navigation-case>
+        <navigation-case>
+            <from-action>#{newsManager.delete}</from-action>
+            <from-outcome>success</from-outcome>
+            <to-view-id>/pages/newslist.xhtml</to-view-id>  
+            <redirect />         
+        </navigation-case>
+    </navigation-rule>
+     
+  	<navigation-rule>
+		<from-view-id>*</from-view-id>
+		<navigation-case>
+			<from-action>#{newsManager.add}</from-action>
+            <from-outcome>success</from-outcome>
+            <to-view-id>/pages/edit_news.xhtml</to-view-id>  
+            <redirect />         
+        </navigation-case>
+        <navigation-case>
+        	<from-action>#{newsManager.list}</from-action>
+         	<from-outcome>success</from-outcome>
+            <to-view-id>/pages/newslist.xhtml</to-view-id> 
+            <redirect />            
+        </navigation-case>
+		<navigation-case>
+			<from-outcome>failure</from-outcome>
+            <to-view-id>/pages/error.xhtml</to-view-id>           
+        </navigation-case>
+    </navigation-rule> -->
+
+</faces-config>

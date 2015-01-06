@@ -1,0 +1,31 @@
+<pretty-config xmlns="http://ocpsoft.org/schema/rewrite-config-prettyfaces" 
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+  xsi:schemaLocation="http://ocpsoft.org/schema/rewrite-config-prettyfaces
+                      http://ocpsoft.org/xml/ns/prettyfaces/rewrite-config-prettyfaces.xsd">
+
+	<url-mapping id="newslist">
+		<pattern value="/list" />
+		<view-id value="/pages/newslist.xhtml" />
+	</url-mapping>
+	
+	<url-mapping id="error">
+		<pattern value="/error" />
+		<view-id value="/pages/error.xhtml" />
+	</url-mapping>
+	
+	<url-mapping id="view_news">
+		<pattern value="/view/#{id}" />
+		<view-id value="/pages/view_news.xhtml" />
+	</url-mapping>
+	
+	<url-mapping id="edit_news">
+		<pattern value="/from-#{back}/edit/#{id}" />
+		<view-id value="/pages/edit_news.xhtml" />
+	</url-mapping>
+	
+	<url-mapping id="add_news">
+		<pattern value="/add" />
+		<view-id value="/pages/edit_news.xhtml" />
+	</url-mapping>
+
+</pretty-config>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml"   
+      xmlns:h="http://java.sun.com/jsf/html"
+      xmlns:f="http://java.sun.com/jsf/core" 
+      xmlns:ui="http://java.sun.com/jsf/facelets">
+ 
+    <h:head>
+    	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+		<title><ui:insert name="page_title" /></title>
+		<h:outputScript name="jquery1.9.1.min.js" library="js"/>
+		<h:outputStylesheet name="newsWebappStyle.css" library="css"/>
+    </h:head>
+ 
+    <h:body>
+    
+    	<div class="hidden" id="lang">#{newsManager.currentLocale}</div>
+    	
+	 	<f:view locale="#{newsManager.currentLocale}"> 
+	 	  
+		    <div id="wrap"> 
+				
+				<ui:insert name="header" >
+					<ui:include src="/pages/template/header.xhtml" />
+				</ui:insert>
+				
+				<div id="sidebar">
+					<div class="sidebar-content">
+						<div class="news-sidebar-title">#{msg['sidebar.news']}</div>
+						<ul>
+							<li><h:link value="#{msg['sidebar.newslist']}" outcome="newslist"/></li>   
+							<li>
+								<h:form>
+									<h:commandLink action="#{newsManager.add}" value="#{msg['sidebar.addnews']}">
+										<f:setPropertyActionListener target="#{newsManager.previousPage}" value="newslist" />
+									</h:commandLink>
+								</h:form> 							
+							</li>														
+						</ul>
+					</div>		
+				</div>
+				
+				<div id="main">
+				
+					<div class="main-content">	
+						<ui:insert name="main_content_body" />	
+					</div><!-- end of main content -->
+				
+				</div><!-- end of main -->
+			
+				<div class="clear"></div>		
+			    	
+			</div> 
+			
+			<ui:insert name="footer" >
+				<ui:include src="/pages/template/footer.xhtml" />
+			</ui:insert>
+					
+		</f:view>	
+    </h:body>
+    
+</html>

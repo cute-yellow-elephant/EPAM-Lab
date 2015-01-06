@@ -1,0 +1,1022 @@
+30.09.2014 19:56:44 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - ...Starting DOM parsing.
+30.09.2014 19:57:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - ...Starting DOM parsing.
+30.09.2014 19:58:40 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - ...Starting DOM parsing.
+30.09.2014 19:58:40 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - [category: null]
+30.09.2014 19:59:29 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - ...Starting DOM parsing.
+30.09.2014 19:59:29 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - [categories: null]
+30.09.2014 19:59:29 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - [category: null]
+30.09.2014 20:00:18 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - ...Starting DOM parsing.
+30.09.2014 20:00:18 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - [#document: null]
+30.09.2014 20:00:18 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - [categories: null]
+30.09.2014 20:00:18 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - [category: null]
+30.09.2014 20:02:01 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - ...Starting DOM parsing.
+30.09.2014 20:02:01 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - [#document: null]
+30.09.2014 20:02:01 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - [categories: null]
+30.09.2014 20:02:01 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - [category: null]
+30.09.2014 20:02:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - src\main\resources\categories.xml
+30.09.2014 20:02:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - ...Starting DOM parsing.
+30.09.2014 20:02:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - [#document: null]
+30.09.2014 20:02:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - [categories: null]
+30.09.2014 20:02:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - [category: null]
+30.09.2014 20:07:46 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - src\main\resources\categories.xml
+30.09.2014 20:07:46 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - ...Starting DOM parsing.
+30.09.2014 20:07:46 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - [categories: null]
+30.09.2014 20:07:46 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - [categories: null]
+30.09.2014 20:07:46 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - [category: null]
+30.09.2014 20:08:33 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - src\main\resources\categories.xml
+30.09.2014 20:08:33 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - ...Starting DOM parsing.
+30.09.2014 20:08:33 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - doc element: [categories: null]
+30.09.2014 20:08:33 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - [categories: null]
+30.09.2014 20:08:33 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - [category: null]
+01.10.2014 10:31:31 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - src\main\resources\categories.xml
+01.10.2014 10:31:31 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - ...Starting DOM parsing.
+01.10.2014 10:31:31 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - doc element: [categories: null]
+01.10.2014 10:31:31 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - [categories: null]
+01.10.2014 10:31:31 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - [category: null]
+01.10.2014 11:25:06 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - src\main\resources\NewFile.xml
+01.10.2014 11:25:06 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - ...Starting DOM parsing.
+01.10.2014 11:25:06 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - doc element: [categories: null]
+01.10.2014 11:25:06 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - [categories: null]
+01.10.2014 11:25:06 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - [category: null]
+01.10.2014 11:27:02 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - src\main\resources\NewFile.xml
+01.10.2014 11:27:02 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - ...Starting DOM parsing.
+01.10.2014 11:27:02 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - doc element: [tns:categories: null]
+01.10.2014 11:27:02 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - [tns:categories: null]
+01.10.2014 11:27:02 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - [tns:category: null]
+01.10.2014 11:28:17 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - src\main\resources\NewFile.xml
+01.10.2014 11:28:17 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - ...Starting DOM parsing.
+01.10.2014 11:28:17 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - doc element: [categories: null]
+01.10.2014 11:28:17 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - [categories: null]
+01.10.2014 11:28:17 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - [category: null]
+01.10.2014 11:28:58 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - src\main\resources\categories.xml
+01.10.2014 11:28:58 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - ...Starting DOM parsing.
+01.10.2014 11:28:58 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - doc element: [categories: null]
+01.10.2014 11:28:58 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - [categories: null]
+01.10.2014 11:28:58 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - [category: null]
+01.10.2014 11:32:30 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - doc element: [categories: null]
+01.10.2014 11:32:30 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - [categories: null]
+01.10.2014 11:32:30 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - [category: null]
+01.10.2014 11:33:25 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - doc element: [wagons: null]
+01.10.2014 11:33:25 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - [wagons: null]
+01.10.2014 11:33:25 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - [cargo: null]
+01.10.2014 11:34:58 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - doc element: [wagons: null]
+01.10.2014 11:34:58 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - [wagons: null]
+01.10.2014 11:34:58 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - 41
+01.10.2014 11:34:58 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - [cargo: null]
+01.10.2014 11:35:13 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - doc element: [categories: null]
+01.10.2014 11:35:13 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - [categories: null]
+01.10.2014 11:35:13 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - 3
+01.10.2014 11:35:13 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - [category: null]
+01.10.2014 11:37:05 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Root element: categories
+01.10.2014 11:37:05 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Categories number: 3
+01.10.2014 11:37:05 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - [category: null]
+01.10.2014 11:38:59 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Root element: categories
+01.10.2014 11:38:59 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Categories number: 3
+01.10.2014 11:38:59 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Category node name: #text
+01.10.2014 11:38:59 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Category node name: category
+01.10.2014 11:38:59 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Category node name: #text
+01.10.2014 11:38:59 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - [category: null]
+01.10.2014 11:48:57 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Root element: categories
+01.10.2014 11:48:57 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Categories number: 1
+01.10.2014 11:48:57 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Category node name: categories
+01.10.2014 11:48:57 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - [categories: null]
+01.10.2014 11:49:34 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Root element: categories
+01.10.2014 11:49:34 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Categories number: 0
+01.10.2014 11:49:34 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - []
+01.10.2014 11:49:34 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - ...DOM parsing has been finished successfully.
+01.10.2014 11:50:54 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Root element: categories
+01.10.2014 11:50:54 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Categories number: 1
+01.10.2014 11:50:54 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Category node name: category
+01.10.2014 11:50:54 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - [category: null]
+01.10.2014 11:53:03 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Root element: categories
+01.10.2014 11:53:03 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Categories number: 3
+01.10.2014 11:53:03 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Category node name: #text
+01.10.2014 11:53:03 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Category node name: category
+01.10.2014 11:53:03 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Category node name: #text
+01.10.2014 11:53:03 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - [category: null]
+01.10.2014 11:54:39 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Root element: categories
+01.10.2014 11:54:39 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Categories number: 3
+01.10.2014 11:54:39 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Category node name: #text
+01.10.2014 11:54:39 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Category node name: category
+01.10.2014 11:54:39 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Category node name: #text
+01.10.2014 11:55:35 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - [category: null]
+01.10.2014 11:57:39 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Root element: categories
+01.10.2014 11:57:39 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Categories number: 3
+01.10.2014 11:57:39 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Category node name: #text
+01.10.2014 11:57:39 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Category node name: category
+01.10.2014 11:57:39 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Category node name: #text
+01.10.2014 11:57:39 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - [category: null]
+01.10.2014 11:57:39 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - [com.epam.shopwebapp.model.Category@2b7f6b6d]
+01.10.2014 11:57:39 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - ...DOM parsing has been finished successfully.
+01.10.2014 12:01:20 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Root element: categories
+01.10.2014 12:01:20 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Categories number: 3
+01.10.2014 12:01:20 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Category node name: #text
+01.10.2014 12:01:20 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Category node name: category
+01.10.2014 12:01:20 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Category node name: #text
+01.10.2014 12:01:20 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - food
+01.10.2014 12:01:20 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - [com.epam.shopwebapp.model.Category@2bb5f635]
+01.10.2014 12:01:20 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - ...DOM parsing has been finished successfully.
+01.10.2014 12:02:44 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Root element: categories
+01.10.2014 12:02:44 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Categories number: 3
+01.10.2014 12:02:44 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Category node name: #text
+01.10.2014 12:02:44 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Category node name: category
+01.10.2014 12:02:44 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Category node name: #text
+01.10.2014 12:02:44 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - food
+01.10.2014 12:02:44 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - [Category [name=food, subcategories=null]]
+01.10.2014 12:02:44 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - ...DOM parsing has been finished successfully.
+01.10.2014 12:04:35 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Root element: categories
+01.10.2014 12:04:35 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Categories number: 3
+01.10.2014 12:04:35 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Category node name: #text
+01.10.2014 12:04:35 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Category node name: category
+01.10.2014 12:04:35 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Category node name: #text
+01.10.2014 12:04:35 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Subcategories number: 0
+01.10.2014 12:04:35 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - [Category [name=food, subcategories=null]]
+01.10.2014 12:04:35 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - ...DOM parsing has been finished successfully.
+01.10.2014 12:15:10 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Root element: categories
+01.10.2014 12:15:10 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Categories number: 3
+01.10.2014 12:15:10 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Category node name: #text
+01.10.2014 12:15:10 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Category node name: category
+01.10.2014 12:15:10 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Category node name: #text
+01.10.2014 12:15:10 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - #text
+01.10.2014 12:15:10 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Subcategories number: 0
+01.10.2014 12:15:10 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - [Category [name=food, subcategories=null]]
+01.10.2014 12:15:10 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - ...DOM parsing has been finished successfully.
+01.10.2014 12:16:30 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Root element: categories
+01.10.2014 12:16:30 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Categories number: 3
+01.10.2014 12:16:30 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Category node name: #text
+01.10.2014 12:16:30 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Category node name: category
+01.10.2014 12:16:30 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Category node name: #text
+01.10.2014 12:16:30 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - subcategories
+01.10.2014 12:16:30 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Subcategories number: 5
+01.10.2014 12:16:30 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Subcategory node name: subcategory
+01.10.2014 12:16:30 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Subcategory node name: subcategory
+01.10.2014 12:16:30 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Subcategory node name: subcategory
+01.10.2014 12:16:30 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Subcategory node name: subcategory
+01.10.2014 12:16:30 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Subcategory node name: subcategory
+01.10.2014 12:16:30 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - [Category [name=food, subcategories=null]]
+01.10.2014 12:16:30 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - ...DOM parsing has been finished successfully.
+01.10.2014 12:18:05 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Root element: categories
+01.10.2014 12:18:05 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Categories number: 3
+01.10.2014 12:18:05 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Category node name: #text
+01.10.2014 12:18:05 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Category node name: category
+01.10.2014 12:18:05 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Category node name: #text
+01.10.2014 12:18:05 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - subcategories
+01.10.2014 12:18:05 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Subcategories number: 2
+01.10.2014 12:18:05 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Subcategory node name: subcategory
+01.10.2014 12:18:05 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Subcategory node name: subcategory
+01.10.2014 12:18:05 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - [Category [name=food, subcategories=null]]
+01.10.2014 12:18:05 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - ...DOM parsing has been finished successfully.
+01.10.2014 12:19:17 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Root element: categories
+01.10.2014 12:19:17 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Categories number: 3
+01.10.2014 12:19:17 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Category node name: #text
+01.10.2014 12:19:17 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Category node name: category
+01.10.2014 12:19:17 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Category node name: #text
+01.10.2014 12:19:17 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - subcategories
+01.10.2014 12:19:17 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Subcategories number: 2
+01.10.2014 12:19:17 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Subcategory node name: subcategory
+01.10.2014 12:19:17 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Subcategory node name: subcategory
+01.10.2014 12:19:17 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - [Category [name=food, subcategories=null]]
+01.10.2014 12:19:17 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - ...DOM parsing has been finished successfully.
+01.10.2014 12:22:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Root element: categories
+01.10.2014 12:22:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Categories number: 1
+01.10.2014 12:22:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Category node name: category
+01.10.2014 12:22:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - subcategories
+01.10.2014 12:22:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Subcategories number: 2
+01.10.2014 12:22:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Subcategory node name: subcategory
+01.10.2014 12:22:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Subcategory node name: subcategory
+01.10.2014 12:22:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - [Category [name=food, subcategories=null]]
+01.10.2014 12:22:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - ...DOM parsing has been finished successfully.
+01.10.2014 12:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Root element: categories
+01.10.2014 12:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Categories number: 1
+01.10.2014 12:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Category node name: category
+01.10.2014 12:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - subcategories
+01.10.2014 12:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Subcategories number: 2
+01.10.2014 12:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Subcategory node name: subcategory
+01.10.2014 12:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Subcategory node name: subcategory
+01.10.2014 12:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - [Category [name=food, subcategories=null]]
+01.10.2014 12:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - ...DOM parsing has been finished successfully.
+01.10.2014 12:27:05 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Root element: categories
+01.10.2014 12:27:05 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Categories number: 1
+01.10.2014 12:27:05 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Category node name: category
+01.10.2014 12:27:05 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - subcategories
+01.10.2014 12:27:05 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Subcategories number: 2
+01.10.2014 12:27:05 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Subcategory node name: subcategory
+01.10.2014 12:27:05 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Subcategory node name: subcategory
+01.10.2014 12:27:05 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - [Category [name=food, subcategories=null]]
+01.10.2014 12:27:05 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - ...DOM parsing has been finished successfully.
+01.10.2014 12:28:42 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Root element: categories
+01.10.2014 12:28:42 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Categories number: 1
+01.10.2014 12:28:42 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Category node name: category
+01.10.2014 12:28:42 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - subcategories
+01.10.2014 12:28:42 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Subcategories number: 2
+01.10.2014 12:28:42 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Subcategory node name: subcategory
+01.10.2014 12:28:42 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Subcategory node name: subcategory
+01.10.2014 12:29:54 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Root element: categories
+01.10.2014 12:29:54 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Categories number: 1
+01.10.2014 12:29:54 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Category node name: category
+01.10.2014 12:29:54 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - subcategories
+01.10.2014 12:29:54 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Subcategories number: 2
+01.10.2014 12:29:54 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Subcategory node name: subcategory
+01.10.2014 12:29:54 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Subcategory node name: subcategory
+01.10.2014 12:29:54 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - fruit
+01.10.2014 12:29:54 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - products
+01.10.2014 12:29:54 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Products number: 3
+01.10.2014 12:31:40 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Root element: categories
+01.10.2014 12:31:40 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Categories number: 1
+01.10.2014 12:31:40 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Category node name: category
+01.10.2014 12:31:40 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - subcategories
+01.10.2014 12:31:40 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Subcategories number: 2
+01.10.2014 12:31:40 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Subcategory node name: subcategory
+01.10.2014 12:31:40 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Subcategory node name: subcategory
+01.10.2014 12:31:40 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - products
+01.10.2014 12:31:40 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Products number: 3
+01.10.2014 12:32:10 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Root element: categories
+01.10.2014 12:32:10 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Categories number: 1
+01.10.2014 12:32:10 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Category node name: category
+01.10.2014 12:32:10 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - subcategories
+01.10.2014 12:32:10 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Subcategories number: 2
+01.10.2014 12:32:10 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Subcategory node name: subcategory
+01.10.2014 12:32:10 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Subcategory node name: subcategory
+01.10.2014 12:32:10 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - products
+01.10.2014 12:32:10 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Products number: 3
+01.10.2014 12:32:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Root element: categories
+01.10.2014 12:32:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Categories number: 1
+01.10.2014 12:32:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Category node name: category
+01.10.2014 12:32:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - subcategories
+01.10.2014 12:32:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Subcategories number: 2
+01.10.2014 12:32:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Subcategory node name: subcategory
+01.10.2014 12:32:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Subcategory node name: subcategory
+01.10.2014 12:32:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - products
+01.10.2014 12:32:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Products number: 3
+01.10.2014 12:35:21 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Root element: categories
+01.10.2014 12:35:21 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Categories number: 1
+01.10.2014 12:35:21 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Category node name: category
+01.10.2014 12:35:21 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - subcategories
+01.10.2014 12:35:21 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Subcategories number: 2
+01.10.2014 12:35:21 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Subcategory node name: subcategory
+01.10.2014 12:35:21 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Subcategory node name: subcategory
+01.10.2014 12:35:21 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - products
+01.10.2014 12:35:21 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Products number: 3
+01.10.2014 12:35:21 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - products
+01.10.2014 12:35:21 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Products number: 3
+01.10.2014 12:35:21 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - [Category [name=food, subcategories=[Subcategory [name=fruit, products=[Product [name=apple, provider=Poland, model=AP123, dateOfIssue=Wed Oct 01 12:35:21 FET 2014, color=red, price=12.05], Product [name=pineapple, provider=Africa, model=PI123, dateOfIssue=Wed Oct 01 12:35:21 FET 2014, color=yellow, price=18.35], Product [name=pear, provider=Poland, model=PE123, dateOfIssue=Wed Oct 01 12:35:21 FET 2014, color=Green, price=9.05]]], Subcategory [name=vegetables, products=[Product [name=tomato, provider=Brasil, model=TM123, dateOfIssue=Wed Oct 01 12:35:21 FET 2014, color=red, price=4.05], Product [name=name, provider=Belarus, model=CC123, dateOfIssue=Wed Oct 01 12:35:21 FET 2014, color=green, price=8.35], Product [name=potato, provider=Poland, model=PT123, dateOfIssue=Wed Oct 01 12:35:21 FET 2014, color=brown, price=10.05]]]]]]
+01.10.2014 12:35:21 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - ...DOM parsing has been finished successfully.
+02.10.2014 12:28:43 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Root element: categories
+02.10.2014 12:28:44 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Categories number: 1
+02.10.2014 12:28:44 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Category node name: category
+02.10.2014 12:28:44 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - subcategories
+02.10.2014 12:28:44 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Subcategories number: 2
+02.10.2014 12:28:44 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Subcategory node name: subcategory
+02.10.2014 12:28:44 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Subcategory node name: subcategory
+02.10.2014 12:28:44 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - products
+02.10.2014 12:28:44 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Products number: 3
+02.10.2014 12:28:44 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - products
+02.10.2014 12:28:44 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - Products number: 3
+02.10.2014 12:28:44 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - [Category [name=food, subcategories=[Subcategory [name=fruit, products=[Product [name=apple, provider=Poland, model=AP123, dateOfIssue=Thu Oct 02 12:28:44 FET 2014, color=red, price=12.05], Product [name=pineapple, provider=Africa, model=PI123, dateOfIssue=Thu Oct 02 12:28:44 FET 2014, color=yellow, price=18.35], Product [name=pear, provider=Poland, model=PE123, dateOfIssue=Thu Oct 02 12:28:44 FET 2014, color=Green, price=9.05]]], Subcategory [name=vegetables, products=[Product [name=tomato, provider=Brasil, model=TM123, dateOfIssue=Thu Oct 02 12:28:44 FET 2014, color=red, price=4.05], Product [name=name, provider=Belarus, model=CC123, dateOfIssue=Thu Oct 02 12:28:44 FET 2014, color=green, price=8.35], Product [name=potato, provider=Poland, model=PT123, dateOfIssue=Thu Oct 02 12:28:44 FET 2014, color=brown, price=10.05]]]]]]
+02.10.2014 12:28:44 [main] INFO  com.epam.shopwebapp.util.xml.parser.DOMParser  - ...DOM parsing has been finished successfully.
+02.10.2014 19:17:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - Root element: categories
+02.10.2014 19:17:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - Categories number: 1
+02.10.2014 19:17:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - Category node name: category
+02.10.2014 19:17:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - subcategories
+02.10.2014 19:17:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - Subcategories number: 2
+02.10.2014 19:17:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - Subcategory node name: subcategory
+02.10.2014 19:17:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - Subcategory node name: subcategory
+02.10.2014 19:17:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - products
+02.10.2014 19:17:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - Products number: 3
+02.10.2014 19:17:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - products
+02.10.2014 19:17:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - Products number: 3
+02.10.2014 19:17:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - [Category [name=food, subcategories=[Subcategory [name=fruit, products=[Product [name=apple, provider=Poland, model=AP123, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=red, price=12.05], Product [name=pineapple, provider=Africa, model=PI123, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=yellow, price=18.35], Product [name=pear, provider=Poland, model=PE123, dateOfIssue=Wed Apr 02 00:00:00 FET 2014, color=Green, price=9.05]]], Subcategory [name=vegetables, products=[Product [name=tomato, provider=Brasil, model=TM123, dateOfIssue=Sat Sep 13 00:00:00 FET 2014, color=red, price=4.05], Product [name=name, provider=Belarus, model=CC123, dateOfIssue=Sat Sep 06 00:00:00 FET 2014, color=green, price=8.35], Product [name=potato, provider=Poland, model=PT123, dateOfIssue=Wed Apr 09 00:00:00 FET 2014, color=brown, price=10.05]]]]]]
+02.10.2014 19:17:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - ...DOM parsing has been finished successfully.
+02.10.2014 19:57:26 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - Root element: categories
+02.10.2014 19:57:26 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - Categories number: 1
+02.10.2014 19:57:26 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - Category node name: category
+02.10.2014 19:57:26 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - subcategories
+02.10.2014 19:57:26 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - Subcategories number: 2
+02.10.2014 19:57:26 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - Subcategory node name: subcategory
+02.10.2014 19:57:26 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - Subcategory node name: subcategory
+02.10.2014 19:57:26 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - products
+02.10.2014 19:57:26 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - Products number: 3
+02.10.2014 19:57:26 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - products
+02.10.2014 19:57:26 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - Products number: 3
+02.10.2014 19:57:26 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - [Category [name=food, subcategories=[Subcategory [name=fruit, products=[Product [name=apple, provider=Poland, model=AP123, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=red, price=12.05], Product [name=pineapple, provider=Africa, model=PI123, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=yellow, price=18.35], Product [name=pear, provider=Poland, model=PE123, dateOfIssue=Wed Apr 02 00:00:00 FET 2014, color=Green, price=9.05]]], Subcategory [name=vegetables, products=[Product [name=tomato, provider=Brasil, model=TM123, dateOfIssue=Sat Sep 13 00:00:00 FET 2014, color=red, price=4.05], Product [name=name, provider=Belarus, model=CC123, dateOfIssue=Sat Sep 06 00:00:00 FET 2014, color=green, price=8.35], Product [name=potato, provider=Poland, model=PT123, dateOfIssue=Wed Apr 09 00:00:00 FET 2014, color=brown, price=10.05]]]]]]
+02.10.2014 19:57:26 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - ...DOM parsing has been finished successfully.
+02.10.2014 19:57:37 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - Root element: categories
+02.10.2014 19:57:37 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - Categories number: 1
+02.10.2014 19:57:37 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - Category node name: category
+02.10.2014 19:57:37 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - subcategories
+02.10.2014 19:57:37 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - Subcategories number: 2
+02.10.2014 19:57:37 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - Subcategory node name: subcategory
+02.10.2014 19:57:37 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - Subcategory node name: subcategory
+02.10.2014 19:57:37 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - products
+02.10.2014 19:57:37 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - Products number: 3
+02.10.2014 19:57:37 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - products
+02.10.2014 19:57:37 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - Products number: 3
+02.10.2014 19:57:37 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - [Category [name=food, subcategories=[Subcategory [name=fruit, products=[Product [name=apple, provider=Poland, model=AP123, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=red, price=12.05], Product [name=pineapple, provider=Africa, model=PI123, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=yellow, price=18.35], Product [name=pear, provider=Poland, model=PE123, dateOfIssue=Wed Apr 02 00:00:00 FET 2014, color=Green, price=9.05]]], Subcategory [name=vegetables, products=[Product [name=tomato, provider=Brasil, model=TM123, dateOfIssue=Sat Sep 13 00:00:00 FET 2014, color=red, price=4.05], Product [name=name, provider=Belarus, model=CC123, dateOfIssue=Sat Sep 06 00:00:00 FET 2014, color=green, price=8.35], Product [name=potato, provider=Poland, model=PT123, dateOfIssue=Wed Apr 09 00:00:00 FET 2014, color=brown, price=10.05]]]]]]
+02.10.2014 19:57:37 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - ...DOM parsing has been finished successfully.
+03.10.2014 12:33:12 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - Root element: categories
+03.10.2014 12:33:12 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - Categories number: 1
+03.10.2014 12:33:12 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - Category node name: category
+03.10.2014 12:33:12 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - subcategories
+03.10.2014 12:33:12 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - Subcategories number: 2
+03.10.2014 12:33:12 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - Subcategory node name: subcategory
+03.10.2014 12:33:12 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - Subcategory node name: subcategory
+03.10.2014 12:33:12 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - products
+03.10.2014 12:33:12 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - Products number: 3
+03.10.2014 12:33:12 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - products
+03.10.2014 12:33:12 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - Products number: 3
+03.10.2014 12:33:12 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - [Category [name=food, subcategories=[Subcategory [name=fruit, products=[Product [name=apple, provider=Poland, model=AP123, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=red, price=12.05], Product [name=pineapple, provider=Africa, model=PI123, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=yellow, price=18.35], Product [name=pear, provider=Poland, model=PE123, dateOfIssue=Wed Apr 02 00:00:00 FET 2014, color=Green, price=9.05]]], Subcategory [name=vegetables, products=[Product [name=tomato, provider=Brasil, model=TM123, dateOfIssue=Sat Sep 13 00:00:00 FET 2014, color=red, price=4.05], Product [name=name, provider=Belarus, model=CC123, dateOfIssue=Sat Sep 06 00:00:00 FET 2014, color=green, price=8.35], Product [name=potato, provider=Poland, model=PT123, dateOfIssue=Wed Apr 09 00:00:00 FET 2014, color=brown, price=10.05]]]]]]
+03.10.2014 12:33:12 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - ...DOM parsing has been finished successfully.
+03.10.2014 12:46:44 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - Root element: categories
+03.10.2014 12:46:44 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - Categories number: 1
+03.10.2014 12:46:44 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - Category node name: category
+03.10.2014 12:46:44 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - subcategories
+03.10.2014 12:46:44 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - Subcategories number: 2
+03.10.2014 12:46:44 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - Subcategory node name: subcategory
+03.10.2014 12:46:44 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - Subcategory node name: subcategory
+03.10.2014 12:46:44 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - products
+03.10.2014 12:46:44 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - Products number: 3
+03.10.2014 12:46:44 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - products
+03.10.2014 12:46:44 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - Products number: 3
+03.10.2014 12:46:44 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - [Category [name=food, subcategories=[Subcategory [name=fruit, products=[Product [name=apple, provider=Poland, model=AP123, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=red, price=12.05], Product [name=pineapple, provider=Africa, model=PI123, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=yellow, price=18.35], Product [name=pear, provider=Poland, model=PE123, dateOfIssue=Wed Apr 02 00:00:00 FET 2014, color=Green, price=9.05]]], Subcategory [name=vegetables, products=[Product [name=tomato, provider=Brasil, model=TM123, dateOfIssue=Sat Sep 13 00:00:00 FET 2014, color=red, price=4.05], Product [name=name, provider=Belarus, model=CC123, dateOfIssue=Sat Sep 06 00:00:00 FET 2014, color=green, price=8.35], Product [name=potato, provider=Poland, model=PT123, dateOfIssue=Wed Apr 09 00:00:00 FET 2014, color=brown, price=10.05]]]]]]
+03.10.2014 12:46:44 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - ...DOM parsing has been finished successfully.
+03.10.2014 13:19:37 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - Root element: categories
+03.10.2014 13:19:38 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - Categories number: 1
+03.10.2014 13:19:38 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - Category node name: category
+03.10.2014 13:19:38 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - subcategories
+03.10.2014 13:19:38 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - Subcategories number: 2
+03.10.2014 13:19:38 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - Subcategory node name: subcategory
+03.10.2014 13:19:38 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - Subcategory node name: subcategory
+03.10.2014 13:19:38 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - products
+03.10.2014 13:19:38 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - Products number: 3
+03.10.2014 13:19:38 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - products
+03.10.2014 13:19:38 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - Products number: 3
+03.10.2014 13:19:38 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - [Category [name=food, subcategories=[Subcategory [name=fruit, products=[Product [name=apple, provider=Poland, model=AP123, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=red, price=12.05], Product [name=pineapple, provider=Africa, model=PI123, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=yellow, price=18.35], Product [name=pear, provider=Poland, model=PE123, dateOfIssue=Wed Apr 02 00:00:00 FET 2014, color=Green, price=9.05]]], Subcategory [name=vegetables, products=[Product [name=tomato, provider=Brasil, model=TM123, dateOfIssue=Sat Sep 13 00:00:00 FET 2014, color=red, price=4.05], Product [name=name, provider=Belarus, model=CC123, dateOfIssue=Sat Sep 06 00:00:00 FET 2014, color=green, price=8.35], Product [name=potato, provider=Poland, model=PT123, dateOfIssue=Wed Apr 09 00:00:00 FET 2014, color=brown, price=10.05]]]]]]
+03.10.2014 13:19:38 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - ...DOM parsing has been finished successfully.
+03.10.2014 14:27:17 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - [Category [name=food, subcategories=[Subcategory [name=fruit, products=[Product [name=apple, provider=Poland, model=AP123, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=red, price=12.05], Product [name=pineapple, provider=Africa, model=PI123, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=yellow, price=18.35], Product [name=pear, provider=Poland, model=PE123, dateOfIssue=Wed Apr 02 00:00:00 FET 2014, color=Green, price=9.05]]], Subcategory [name=vegetables, products=[Product [name=tomato, provider=Brasil, model=TM123, dateOfIssue=Sat Sep 13 00:00:00 FET 2014, color=red, price=4.05], Product [name=name, provider=Belarus, model=CC123, dateOfIssue=Sat Sep 06 00:00:00 FET 2014, color=green, price=8.35], Product [name=potato, provider=Poland, model=PT123, dateOfIssue=Wed Apr 09 00:00:00 FET 2014, color=brown, price=10.05]]]]]]
+03.10.2014 14:27:17 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - ...DOM parsing has been finished successfully.
+03.10.2014 17:14:15 [main] ERROR com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - SAX parsing error.
+03.10.2014 17:15:30 [main] ERROR com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - SAX parsing error: com.epam.shopwebapp.exception.UtilException: The parsing error occured.
+03.10.2014 17:17:21 [main] ERROR com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - SAX parsing error: The parsing error occured.
+03.10.2014 17:17:58 [main] ERROR com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - SAX parsing error: com.epam.shopwebapp.exception.UtilException: The parsing error occured. null
+03.10.2014 17:18:45 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - date: null
+03.10.2014 17:18:45 [main] ERROR com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - SAX parsing error: com.epam.shopwebapp.exception.UtilException: The parsing error occured.
+03.10.2014 17:20:15 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: apple
+03.10.2014 17:20:15 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Poland
+03.10.2014 17:20:15 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: AP123
+03.10.2014 17:20:15 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 31-08-2014
+03.10.2014 17:20:15 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: red
+03.10.2014 17:20:15 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 12.05
+03.10.2014 17:20:15 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - date: null
+03.10.2014 17:20:15 [main] ERROR com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - SAX parsing error: com.epam.shopwebapp.exception.UtilException: The parsing error occured.
+03.10.2014 17:22:29 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: apple
+03.10.2014 17:22:29 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - productName: apple
+03.10.2014 17:22:29 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Poland
+03.10.2014 17:22:29 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - provider: Poland
+03.10.2014 17:22:29 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: AP123
+03.10.2014 17:22:29 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - model: AP123
+03.10.2014 17:22:29 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 31-08-2014
+03.10.2014 17:22:29 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - color: 31-08-2014
+03.10.2014 17:22:29 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: red
+03.10.2014 17:22:29 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - color: red
+03.10.2014 17:22:29 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 12.05
+03.10.2014 17:22:29 [main] ERROR com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - SAX parsing error: com.epam.shopwebapp.exception.UtilException: The parsing error occured.
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: apple
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - productName: apple
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Poland
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - provider: Poland
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: AP123
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - model: AP123
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 31-08-2014
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - date: Sun Aug 31 00:00:00 FET 2014
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: red
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - color: red
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 12.05
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - price: 12.05
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: pineapple
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - productName: pineapple
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Africa
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - provider: Africa
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: PI123
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - model: PI123
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 03-09-2014
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - date: Wed Sep 03 00:00:00 FET 2014
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: yellow
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - color: yellow
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 18.35
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - price: 18.35
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: pear
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - productName: pear
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Poland
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - provider: Poland
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: PE123
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - model: PE123
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 02-04-2014
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - date: Wed Apr 02 00:00:00 FET 2014
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Green
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - color: Green
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 9.05
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - price: 9.05
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: tomato
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - productName: tomato
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Brasil
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - provider: Brasil
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: TM123
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - model: TM123
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 13-09-2014
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - date: Sat Sep 13 00:00:00 FET 2014
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: red
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - color: red
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 4.05
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - price: 4.05
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: name
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - productName: name
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Belarus
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - provider: Belarus
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: CC123
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - model: CC123
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 06-09-2014
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - date: Sat Sep 06 00:00:00 FET 2014
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: green
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - color: green
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 8.35
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - price: 8.35
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: potato
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - productName: potato
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Poland
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - provider: Poland
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: PT123
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - model: PT123
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 09-04-2014
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - date: Wed Apr 09 00:00:00 FET 2014
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: brown
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - color: brown
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 10.05
+03.10.2014 17:23:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - price: 10.05
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: apple
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - productName: apple
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Poland
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - provider: Poland
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: AP123
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - model: AP123
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 31-08-2014
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - date: Sun Aug 31 00:00:00 FET 2014
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: red
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - color: red
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 12.05
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - price: 12.05
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: pineapple
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - productName: pineapple
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Africa
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - provider: Africa
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: PI123
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - model: PI123
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 03-09-2014
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - date: Wed Sep 03 00:00:00 FET 2014
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: yellow
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - color: yellow
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 18.35
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - price: 18.35
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: pear
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - productName: pear
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Poland
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - provider: Poland
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: PE123
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - model: PE123
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 02-04-2014
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - date: Wed Apr 02 00:00:00 FET 2014
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Green
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - color: Green
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 9.05
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - price: 9.05
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: tomato
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - productName: tomato
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Brasil
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - provider: Brasil
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: TM123
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - model: TM123
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 13-09-2014
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - date: Sat Sep 13 00:00:00 FET 2014
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: red
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - color: red
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 4.05
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - price: 4.05
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: name
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - productName: name
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Belarus
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - provider: Belarus
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: CC123
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - model: CC123
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 06-09-2014
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - date: Sat Sep 06 00:00:00 FET 2014
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: green
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - color: green
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 8.35
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - price: 8.35
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: potato
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - productName: potato
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Poland
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - provider: Poland
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: PT123
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - model: PT123
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 09-04-2014
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - date: Wed Apr 09 00:00:00 FET 2014
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: brown
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - color: brown
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 10.05
+03.10.2014 17:26:32 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - price: 10.05
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: apple
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - productName: apple
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Poland
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - provider: Poland
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: AP123
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - model: AP123
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 31-08-2014
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - date: Sun Aug 31 00:00:00 FET 2014
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: red
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - color: red
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 12.05
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - price: 12.05
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: pineapple
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - productName: pineapple
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Africa
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - provider: Africa
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: PI123
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - model: PI123
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 03-09-2014
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - date: Wed Sep 03 00:00:00 FET 2014
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: yellow
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - color: yellow
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 18.35
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - price: 18.35
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: pear
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - productName: pear
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Poland
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - provider: Poland
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: PE123
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - model: PE123
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 02-04-2014
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - date: Wed Apr 02 00:00:00 FET 2014
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Green
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - color: Green
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 9.05
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - price: 9.05
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: tomato
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - productName: tomato
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Brasil
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - provider: Brasil
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: TM123
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - model: TM123
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 13-09-2014
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - date: Sat Sep 13 00:00:00 FET 2014
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: red
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - color: red
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 4.05
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - price: 4.05
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: name
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - productName: name
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Belarus
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - provider: Belarus
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: CC123
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - model: CC123
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 06-09-2014
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - date: Sat Sep 06 00:00:00 FET 2014
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: green
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - color: green
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 8.35
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - price: 8.35
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: potato
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - productName: potato
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Poland
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - provider: Poland
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: PT123
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - model: PT123
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 09-04-2014
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - date: Wed Apr 09 00:00:00 FET 2014
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: brown
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - color: brown
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 10.05
+03.10.2014 17:27:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - price: 10.05
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: apple
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - productName: apple
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Poland
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - provider: Poland
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: AP123
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - model: AP123
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 31-08-2014
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - date: Sun Aug 31 00:00:00 FET 2014
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: red
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - color: red
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 12.05
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - price: 12.05
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: pineapple
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - productName: pineapple
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Africa
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - provider: Africa
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: PI123
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - model: PI123
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 03-09-2014
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - date: Wed Sep 03 00:00:00 FET 2014
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: yellow
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - color: yellow
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 18.35
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - price: 18.35
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: pear
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - productName: pear
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Poland
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - provider: Poland
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: PE123
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - model: PE123
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 02-04-2014
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - date: Wed Apr 02 00:00:00 FET 2014
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Green
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - color: Green
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 9.05
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - price: 9.05
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: tomato
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - productName: tomato
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Brasil
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - provider: Brasil
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: TM123
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - model: TM123
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 13-09-2014
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - date: Sat Sep 13 00:00:00 FET 2014
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: red
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - color: red
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 4.05
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - price: 4.05
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: name
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - productName: name
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Belarus
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - provider: Belarus
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: CC123
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - model: CC123
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 06-09-2014
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - date: Sat Sep 06 00:00:00 FET 2014
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: green
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - color: green
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 8.35
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - price: 8.35
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: potato
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - productName: potato
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Poland
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - provider: Poland
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: PT123
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - model: PT123
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 09-04-2014
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - date: Wed Apr 09 00:00:00 FET 2014
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: brown
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - color: brown
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 10.05
+03.10.2014 17:28:14 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - price: 10.05
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: apple
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - productName: apple
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Poland
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - provider: Poland
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: AP123
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - model: AP123
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 31-08-2014
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - date: Sun Aug 31 00:00:00 FET 2014
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: red
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - color: red
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 12.05
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - price: 12.05
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: pineapple
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - productName: pineapple
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Africa
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - provider: Africa
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: PI123
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - model: PI123
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 03-09-2014
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - date: Wed Sep 03 00:00:00 FET 2014
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: yellow
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - color: yellow
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 18.35
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - price: 18.35
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: pear
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - productName: pear
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Poland
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - provider: Poland
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: PE123
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - model: PE123
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 02-04-2014
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - date: Wed Apr 02 00:00:00 FET 2014
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Green
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - color: Green
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 9.05
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - price: 9.05
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: tomato
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - productName: tomato
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Brasil
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - provider: Brasil
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: TM123
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - model: TM123
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 13-09-2014
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - date: Sat Sep 13 00:00:00 FET 2014
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: red
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - color: red
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 4.05
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - price: 4.05
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: name
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - productName: name
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Belarus
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - provider: Belarus
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: CC123
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - model: CC123
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 06-09-2014
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - date: Sat Sep 06 00:00:00 FET 2014
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: green
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - color: green
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 8.35
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - price: 8.35
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: potato
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - productName: potato
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Poland
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - provider: Poland
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: PT123
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - model: PT123
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 09-04-2014
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - date: Wed Apr 09 00:00:00 FET 2014
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: brown
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - color: brown
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 10.05
+03.10.2014 17:29:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - price: 10.05
+03.10.2014 17:37:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: apple
+03.10.2014 17:37:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Poland
+03.10.2014 17:37:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: AP123
+03.10.2014 17:37:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 31-08-2014
+03.10.2014 17:37:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: red
+03.10.2014 17:37:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 12.05
+03.10.2014 17:37:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: pineapple
+03.10.2014 17:37:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Africa
+03.10.2014 17:37:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: PI123
+03.10.2014 17:37:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 03-09-2014
+03.10.2014 17:37:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: yellow
+03.10.2014 17:37:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 18.35
+03.10.2014 17:37:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: pear
+03.10.2014 17:37:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Poland
+03.10.2014 17:37:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: PE123
+03.10.2014 17:37:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 02-04-2014
+03.10.2014 17:37:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Green
+03.10.2014 17:37:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 9.05
+03.10.2014 17:37:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: tomato
+03.10.2014 17:37:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Brasil
+03.10.2014 17:37:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: TM123
+03.10.2014 17:37:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 13-09-2014
+03.10.2014 17:37:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: red
+03.10.2014 17:37:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 4.05
+03.10.2014 17:37:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: name
+03.10.2014 17:37:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Belarus
+03.10.2014 17:37:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: CC123
+03.10.2014 17:37:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 06-09-2014
+03.10.2014 17:37:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: green
+03.10.2014 17:37:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 8.35
+03.10.2014 17:37:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: potato
+03.10.2014 17:37:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Poland
+03.10.2014 17:37:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: PT123
+03.10.2014 17:37:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 09-04-2014
+03.10.2014 17:37:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: brown
+03.10.2014 17:37:11 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 10.05
+03.10.2014 17:38:10 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: apple
+03.10.2014 17:38:10 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Poland
+03.10.2014 17:38:10 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: AP123
+03.10.2014 17:38:10 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 31-08-2014
+03.10.2014 17:38:10 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: red
+03.10.2014 17:38:10 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 12.05
+03.10.2014 17:38:10 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: pineapple
+03.10.2014 17:38:10 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Africa
+03.10.2014 17:38:10 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: PI123
+03.10.2014 17:38:10 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 03-09-2014
+03.10.2014 17:38:10 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: yellow
+03.10.2014 17:38:10 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 18.35
+03.10.2014 17:38:10 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: pear
+03.10.2014 17:38:10 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Poland
+03.10.2014 17:38:10 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: PE123
+03.10.2014 17:38:10 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 02-04-2014
+03.10.2014 17:38:10 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Green
+03.10.2014 17:38:10 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 9.05
+03.10.2014 17:38:10 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: tomato
+03.10.2014 17:38:10 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Brasil
+03.10.2014 17:38:10 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: TM123
+03.10.2014 17:38:10 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 13-09-2014
+03.10.2014 17:38:10 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: red
+03.10.2014 17:38:10 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 4.05
+03.10.2014 17:38:10 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: name
+03.10.2014 17:38:10 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Belarus
+03.10.2014 17:38:10 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: CC123
+03.10.2014 17:38:10 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 06-09-2014
+03.10.2014 17:38:10 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: green
+03.10.2014 17:38:10 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 8.35
+03.10.2014 17:38:10 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: potato
+03.10.2014 17:38:10 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Poland
+03.10.2014 17:38:10 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: PT123
+03.10.2014 17:38:10 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 09-04-2014
+03.10.2014 17:38:10 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: brown
+03.10.2014 17:38:10 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 10.05
+03.10.2014 17:38:46 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: apple
+03.10.2014 17:38:46 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Poland
+03.10.2014 17:38:46 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: AP123
+03.10.2014 17:38:46 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 31-08-2014
+03.10.2014 17:38:46 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: red
+03.10.2014 17:38:46 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 12.05
+03.10.2014 17:38:46 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: pineapple
+03.10.2014 17:38:46 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Africa
+03.10.2014 17:38:46 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: PI123
+03.10.2014 17:38:46 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 03-09-2014
+03.10.2014 17:38:46 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: yellow
+03.10.2014 17:38:46 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 18.35
+03.10.2014 17:38:46 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: pear
+03.10.2014 17:38:46 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Poland
+03.10.2014 17:38:46 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: PE123
+03.10.2014 17:38:46 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 02-04-2014
+03.10.2014 17:38:46 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Green
+03.10.2014 17:38:46 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 9.05
+03.10.2014 17:38:46 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: tomato
+03.10.2014 17:38:46 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Brasil
+03.10.2014 17:38:46 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: TM123
+03.10.2014 17:38:46 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 13-09-2014
+03.10.2014 17:38:46 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: red
+03.10.2014 17:38:46 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 4.05
+03.10.2014 17:38:46 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: name
+03.10.2014 17:38:46 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Belarus
+03.10.2014 17:38:46 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: CC123
+03.10.2014 17:38:46 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 06-09-2014
+03.10.2014 17:38:46 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: green
+03.10.2014 17:38:46 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 8.35
+03.10.2014 17:38:46 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: potato
+03.10.2014 17:38:46 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Poland
+03.10.2014 17:38:46 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: PT123
+03.10.2014 17:38:46 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 09-04-2014
+03.10.2014 17:38:46 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: brown
+03.10.2014 17:38:46 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 10.05
+03.10.2014 17:40:53 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: apple
+03.10.2014 17:40:53 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Poland
+03.10.2014 17:40:53 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: AP123
+03.10.2014 17:40:53 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 31-08-2014
+03.10.2014 17:40:53 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: red
+03.10.2014 17:40:53 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 12.05
+03.10.2014 17:40:53 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: pineapple
+03.10.2014 17:40:53 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Africa
+03.10.2014 17:40:53 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: PI123
+03.10.2014 17:40:53 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 03-09-2014
+03.10.2014 17:40:53 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: yellow
+03.10.2014 17:40:53 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 18.35
+03.10.2014 17:40:53 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: pear
+03.10.2014 17:40:53 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Poland
+03.10.2014 17:40:53 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: PE123
+03.10.2014 17:40:53 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 02-04-2014
+03.10.2014 17:40:53 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Green
+03.10.2014 17:40:53 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 9.05
+03.10.2014 17:40:53 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: tomato
+03.10.2014 17:40:53 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Brasil
+03.10.2014 17:40:53 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: TM123
+03.10.2014 17:40:53 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 13-09-2014
+03.10.2014 17:40:53 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: red
+03.10.2014 17:40:53 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 4.05
+03.10.2014 17:40:53 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: name
+03.10.2014 17:40:53 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Belarus
+03.10.2014 17:40:53 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: CC123
+03.10.2014 17:40:53 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 06-09-2014
+03.10.2014 17:40:53 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: green
+03.10.2014 17:40:53 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 8.35
+03.10.2014 17:40:53 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: potato
+03.10.2014 17:40:53 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: Poland
+03.10.2014 17:40:53 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: PT123
+03.10.2014 17:40:53 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 09-04-2014
+03.10.2014 17:40:53 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: brown
+03.10.2014 17:40:53 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - content: 10.05
+06.10.2014 10:13:06 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - com.sun.xml.internal.stream.XMLInputFactoryImpl@61c8e59b
+06.10.2014 10:13:06 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - com.sun.org.apache.xerces.internal.impl.XMLStreamReaderImpl@39290a1d
+06.10.2014 10:14:00 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - 7
+06.10.2014 10:20:58 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - 7
+06.10.2014 10:31:43 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - categories
+06.10.2014 10:31:43 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - category
+06.10.2014 10:31:43 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - subcategories
+06.10.2014 10:31:43 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - subcategory
+06.10.2014 10:31:43 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - products
+06.10.2014 10:31:43 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - product
+06.10.2014 10:31:43 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - name
+06.10.2014 10:31:43 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - provider
+06.10.2014 10:31:43 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - model
+06.10.2014 10:31:43 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - date-of-issue
+06.10.2014 10:31:43 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - color
+06.10.2014 10:31:43 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - price
+06.10.2014 10:31:43 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - product
+06.10.2014 10:31:43 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - name
+06.10.2014 10:31:43 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - provider
+06.10.2014 10:31:43 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - model
+06.10.2014 10:31:43 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - date-of-issue
+06.10.2014 10:31:43 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - color
+06.10.2014 10:31:43 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - price
+06.10.2014 10:31:43 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - product
+06.10.2014 10:31:43 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - name
+06.10.2014 10:31:43 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - provider
+06.10.2014 10:31:43 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - model
+06.10.2014 10:31:43 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - date-of-issue
+06.10.2014 10:31:43 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - color
+06.10.2014 10:31:43 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - price
+06.10.2014 10:31:43 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - subcategory
+06.10.2014 10:31:43 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - products
+06.10.2014 10:31:43 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - product
+06.10.2014 10:31:43 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - name
+06.10.2014 10:31:43 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - provider
+06.10.2014 10:31:43 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - model
+06.10.2014 10:31:43 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - date-of-issue
+06.10.2014 10:31:43 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - color
+06.10.2014 10:31:43 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - price
+06.10.2014 10:31:43 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - product
+06.10.2014 10:31:43 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - name
+06.10.2014 10:31:43 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - provider
+06.10.2014 10:31:43 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - model
+06.10.2014 10:31:43 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - date-of-issue
+06.10.2014 10:31:43 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - color
+06.10.2014 10:31:43 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - price
+06.10.2014 10:31:43 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - product
+06.10.2014 10:31:43 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - name
+06.10.2014 10:31:43 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - provider
+06.10.2014 10:31:43 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - model
+06.10.2014 10:31:43 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - date-of-issue
+06.10.2014 10:31:43 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - color
+06.10.2014 10:31:43 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - price
+06.10.2014 10:32:31 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - categories
+06.10.2014 10:32:31 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - category
+06.10.2014 10:32:31 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - subcategories
+06.10.2014 10:32:31 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - subcategory
+06.10.2014 10:32:31 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - products
+06.10.2014 10:32:31 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - product
+06.10.2014 10:32:31 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - name
+06.10.2014 10:32:31 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - provider
+06.10.2014 10:32:31 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - model
+06.10.2014 10:32:31 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - date-of-issue
+06.10.2014 10:32:31 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - color
+06.10.2014 10:32:31 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - price
+06.10.2014 10:32:31 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - product
+06.10.2014 10:32:31 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - name
+06.10.2014 10:32:31 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - provider
+06.10.2014 10:32:31 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - model
+06.10.2014 10:32:31 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - date-of-issue
+06.10.2014 10:32:31 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - color
+06.10.2014 10:32:31 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - price
+06.10.2014 10:32:31 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - product
+06.10.2014 10:32:31 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - name
+06.10.2014 10:32:31 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - provider
+06.10.2014 10:32:31 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - model
+06.10.2014 10:32:31 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - date-of-issue
+06.10.2014 10:32:31 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - color
+06.10.2014 10:32:31 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - price
+06.10.2014 10:32:31 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - subcategory
+06.10.2014 10:32:31 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - products
+06.10.2014 10:32:31 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - product
+06.10.2014 10:32:31 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - name
+06.10.2014 10:32:31 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - provider
+06.10.2014 10:32:31 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - model
+06.10.2014 10:32:31 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - date-of-issue
+06.10.2014 10:32:31 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - color
+06.10.2014 10:32:31 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - price
+06.10.2014 10:32:31 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - product
+06.10.2014 10:32:31 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - name
+06.10.2014 10:32:31 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - provider
+06.10.2014 10:32:31 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - model
+06.10.2014 10:32:31 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - date-of-issue
+06.10.2014 10:32:31 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - color
+06.10.2014 10:32:31 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - price
+06.10.2014 10:32:31 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - product
+06.10.2014 10:32:31 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - name
+06.10.2014 10:32:31 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - provider
+06.10.2014 10:32:31 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - model
+06.10.2014 10:32:31 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - date-of-issue
+06.10.2014 10:32:31 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - color
+06.10.2014 10:32:31 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - price
+08.10.2014 09:56:10 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - In parse method!
+08.10.2014 09:56:37 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - In parse method!
+08.10.2014 09:56:59 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - In parse method!
+08.10.2014 09:57:27 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - 0
+08.10.2014 09:57:55 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - 0
+08.10.2014 09:58:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - 1
+08.10.2014 09:58:23 [main] INFO  com.epam.shopwebapp.util.xml.parser.impl.ShopDOMParser  - category
+10.10.2014 12:52:25 [main] INFO  com.epam.shopwebapp.util.xml.parser.ParsersTester  - DOM: [Category [name=food, subcategories=[Subcategory [name=fruit, products=[Product [name=apple, provider=Poland, model=AP123, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=red, price=12.05], Product [name=pineapple, provider=Africa, model=PI123, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=yellow, price=null], Product [name=pear, provider=Poland, model=PE123, dateOfIssue=Wed Apr 02 00:00:00 FET 2014, color=Green, price=9.05]]], Subcategory [name=vegetables, products=[Product [name=tomato, provider=Brasil, model=TM123, dateOfIssue=Sat Sep 13 00:00:00 FET 2014, color=red, price=4.05], Product [name=name, provider=Belarus, model=CC123, dateOfIssue=Sat Sep 06 00:00:00 FET 2014, color=green, price=8.35], Product [name=potato, provider=Poland, model=PT123, dateOfIssue=Wed Apr 09 00:00:00 FET 2014, color=brown, price=10.05]]]]], Category [name=computer equipment, subcategories=[Subcategory [name=notebooks, products=[Product [name=MacBook, provider=Apple, model=AR131, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=gray, price=1300.0], Product [name=XO359H, provider=ASUS, model=XC550, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=white, price=null]]]]]]
+10.10.2014 12:52:25 [main] INFO  com.epam.shopwebapp.util.xml.parser.ParsersTester  - SAX: [Category [name=food, subcategories=[Subcategory [name=fruit, products=[Product [name=apple, provider=Poland, model=AP123, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=red, price=12.05], Product [name=pineapple, provider=Africa, model=PI123, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=yellow, price=null], Product [name=pear, provider=Poland, model=PE123, dateOfIssue=Wed Apr 02 00:00:00 FET 2014, color=Green, price=9.05]]], Subcategory [name=vegetables, products=[Product [name=tomato, provider=Brasil, model=TM123, dateOfIssue=Sat Sep 13 00:00:00 FET 2014, color=red, price=4.05], Product [name=name, provider=Belarus, model=CC123, dateOfIssue=Sat Sep 06 00:00:00 FET 2014, color=green, price=8.35], Product [name=potato, provider=Poland, model=PT123, dateOfIssue=Wed Apr 09 00:00:00 FET 2014, color=brown, price=10.05]]]]], Category [name=computer equipment, subcategories=[Subcategory [name=notebooks, products=[Product [name=MacBook, provider=Apple, model=AR131, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=gray, price=1300.0], Product [name=XO359H, provider=ASUS, model=XC550, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=white, price=null]]]]]]
+10.10.2014 12:52:25 [main] INFO  com.epam.shopwebapp.util.xml.parser.ParsersTester  - STAX: [Category [name=food, subcategories=[Subcategory [name=fruit, products=[Product [name=apple, provider=Poland, model=AP123, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=red, price=12.05], Product [name=pineapple, provider=Africa, model=PI123, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=yellow, price=null], Product [name=pear, provider=Poland, model=PE123, dateOfIssue=Wed Apr 02 00:00:00 FET 2014, color=Green, price=9.05]]], Subcategory [name=vegetables, products=[Product [name=tomato, provider=Brasil, model=TM123, dateOfIssue=Sat Sep 13 00:00:00 FET 2014, color=red, price=4.05], Product [name=name, provider=Belarus, model=CC123, dateOfIssue=Sat Sep 06 00:00:00 FET 2014, color=green, price=8.35], Product [name=potato, provider=Poland, model=PT123, dateOfIssue=Wed Apr 09 00:00:00 FET 2014, color=brown, price=10.05]]]]], Category [name=computer equipment, subcategories=[Subcategory [name=notebooks, products=[Product [name=MacBook, provider=Apple, model=AR131, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=gray, price=1300.0], Product [name=XO359H, provider=ASUS, model=XC550, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=white, price=null]]]]]]
+10.10.2014 13:01:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.ParsersTester  - DOM: [Category [name=food, subcategories=[Subcategory [name=fruit, products=[Product [name=apple, provider=Poland, model=AP123, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=red, price=12.05, inStock=false], Product [name=pineapple, provider=Africa, model=PI123, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=yellow, price=null, inStock=false], Product [name=pear, provider=Poland, model=PE123, dateOfIssue=Wed Apr 02 00:00:00 FET 2014, color=Green, price=9.05, inStock=false]]], Subcategory [name=vegetables, products=[Product [name=tomato, provider=Brasil, model=TM123, dateOfIssue=Sat Sep 13 00:00:00 FET 2014, color=red, price=4.05, inStock=false], Product [name=name, provider=Belarus, model=CC123, dateOfIssue=Sat Sep 06 00:00:00 FET 2014, color=green, price=8.35, inStock=false], Product [name=potato, provider=Poland, model=PT123, dateOfIssue=Wed Apr 09 00:00:00 FET 2014, color=brown, price=10.05, inStock=false]]]]], Category [name=computer equipment, subcategories=[Subcategory [name=notebooks, products=[Product [name=MacBook, provider=Apple, model=AR131, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=gray, price=1300.0, inStock=false], Product [name=XO359H, provider=ASUS, model=XC550, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=white, price=null, inStock=false]]]]]]
+10.10.2014 13:01:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.ParsersTester  - SAX: [Category [name=food, subcategories=[Subcategory [name=fruit, products=[Product [name=apple, provider=Poland, model=AP123, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=red, price=12.05, inStock=false], Product [name=pineapple, provider=Africa, model=PI123, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=yellow, price=null, inStock=false], Product [name=pear, provider=Poland, model=PE123, dateOfIssue=Wed Apr 02 00:00:00 FET 2014, color=Green, price=9.05, inStock=false]]], Subcategory [name=vegetables, products=[Product [name=tomato, provider=Brasil, model=TM123, dateOfIssue=Sat Sep 13 00:00:00 FET 2014, color=red, price=4.05, inStock=false], Product [name=name, provider=Belarus, model=CC123, dateOfIssue=Sat Sep 06 00:00:00 FET 2014, color=green, price=8.35, inStock=false], Product [name=potato, provider=Poland, model=PT123, dateOfIssue=Wed Apr 09 00:00:00 FET 2014, color=brown, price=10.05, inStock=false]]]]], Category [name=computer equipment, subcategories=[Subcategory [name=notebooks, products=[Product [name=MacBook, provider=Apple, model=AR131, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=gray, price=1300.0, inStock=false], Product [name=XO359H, provider=ASUS, model=XC550, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=white, price=null, inStock=false]]]]]]
+10.10.2014 13:01:36 [main] INFO  com.epam.shopwebapp.util.xml.parser.ParsersTester  - STAX: [Category [name=food, subcategories=[Subcategory [name=fruit, products=[Product [name=apple, provider=Poland, model=AP123, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=red, price=12.05, inStock=false], Product [name=pineapple, provider=Africa, model=PI123, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=yellow, price=null, inStock=false], Product [name=pear, provider=Poland, model=PE123, dateOfIssue=Wed Apr 02 00:00:00 FET 2014, color=Green, price=9.05, inStock=false]]], Subcategory [name=vegetables, products=[Product [name=tomato, provider=Brasil, model=TM123, dateOfIssue=Sat Sep 13 00:00:00 FET 2014, color=red, price=4.05, inStock=false], Product [name=name, provider=Belarus, model=CC123, dateOfIssue=Sat Sep 06 00:00:00 FET 2014, color=green, price=8.35, inStock=false], Product [name=potato, provider=Poland, model=PT123, dateOfIssue=Wed Apr 09 00:00:00 FET 2014, color=brown, price=10.05, inStock=false]]]]], Category [name=computer equipment, subcategories=[Subcategory [name=notebooks, products=[Product [name=MacBook, provider=Apple, model=AR131, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=gray, price=1300.0, inStock=false], Product [name=XO359H, provider=ASUS, model=XC550, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=white, price=null, inStock=false]]]]]]
+10.10.2014 13:52:55 [main] INFO  com.epam.shopwebapp.util.xml.parser.ParsersTester  - DOM: [Category [name=food, subcategories=[Subcategory [name=fruit, products=[Product [name=apple, provider=Poland, model=AP123, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=red, price=null, inStock=false], Product [name=pineapple, provider=Africa, model=PI123, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=yellow, price=null, inStock=false], Product [name=pear, provider=Poland, model=PE123, dateOfIssue=Wed Apr 02 00:00:00 FET 2014, color=Green, price=null, inStock=false]]], Subcategory [name=vegetables, products=[Product [name=tomato, provider=Brasil, model=TM123, dateOfIssue=Sat Sep 13 00:00:00 FET 2014, color=red, price=null, inStock=false], Product [name=name, provider=Belarus, model=CC123, dateOfIssue=Sat Sep 06 00:00:00 FET 2014, color=green, price=null, inStock=false], Product [name=potato, provider=Poland, model=PT123, dateOfIssue=Wed Apr 09 00:00:00 FET 2014, color=brown, price=null, inStock=false]]]]], Category [name=computer equipment, subcategories=[Subcategory [name=notebooks, products=[Product [name=MacBook, provider=Apple, model=AR131, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=gray, price=null, inStock=false], Product [name=XO359H, provider=ASUS, model=XC550, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=white, price=null, inStock=false]]]]]]
+10.10.2014 14:05:46 [main] INFO  com.epam.shopwebapp.util.xml.parser.ParsersTester  - STAX: [Category [name=food, subcategories=[Subcategory [name=fruit, products=[Product [name=apple, provider=Poland, model=AP123, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=red, price=12.05, inStock=true], Product [name=pineapple, provider=Africa, model=PI123, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=yellow, price=null, inStock=false], Product [name=pear, provider=Poland, model=PE123, dateOfIssue=Wed Apr 02 00:00:00 FET 2014, color=Green, price=9.05, inStock=true]]], Subcategory [name=vegetables, products=[Product [name=tomato, provider=Brasil, model=TM123, dateOfIssue=Sat Sep 13 00:00:00 FET 2014, color=red, price=4.05, inStock=true], Product [name=name, provider=Belarus, model=CC123, dateOfIssue=Sat Sep 06 00:00:00 FET 2014, color=green, price=8.35, inStock=true], Product [name=potato, provider=Poland, model=PT123, dateOfIssue=Wed Apr 09 00:00:00 FET 2014, color=brown, price=10.05, inStock=true]]]]], Category [name=computer equipment, subcategories=[Subcategory [name=notebooks, products=[Product [name=MacBook, provider=Apple, model=AR131, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=gray, price=1300.0, inStock=true], Product [name=XO359H, provider=ASUS, model=XC550, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=white, price=null, inStock=false]]]]]]
+10.10.2014 14:05:46 [main] INFO  com.epam.shopwebapp.util.xml.parser.ParsersTester  - DOM: [Category [name=food, subcategories=[Subcategory [name=fruit, products=[Product [name=apple, provider=Poland, model=AP123, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=red, price=null, inStock=false], Product [name=pineapple, provider=Africa, model=PI123, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=yellow, price=null, inStock=false], Product [name=pear, provider=Poland, model=PE123, dateOfIssue=Wed Apr 02 00:00:00 FET 2014, color=Green, price=null, inStock=false]]], Subcategory [name=vegetables, products=[Product [name=tomato, provider=Brasil, model=TM123, dateOfIssue=Sat Sep 13 00:00:00 FET 2014, color=red, price=null, inStock=false], Product [name=name, provider=Belarus, model=CC123, dateOfIssue=Sat Sep 06 00:00:00 FET 2014, color=green, price=null, inStock=false], Product [name=potato, provider=Poland, model=PT123, dateOfIssue=Wed Apr 09 00:00:00 FET 2014, color=brown, price=null, inStock=false]]]]], Category [name=computer equipment, subcategories=[Subcategory [name=notebooks, products=[Product [name=MacBook, provider=Apple, model=AR131, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=gray, price=null, inStock=false], Product [name=XO359H, provider=ASUS, model=XC550, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=white, price=null, inStock=false]]]]]]
+10.10.2014 14:05:46 [main] INFO  com.epam.shopwebapp.util.xml.parser.ParsersTester  - SAX: [Category [name=food, subcategories=[Subcategory [name=fruit, products=[Product [name=apple, provider=Poland, model=AP123, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=red, price=12.05, inStock=true], Product [name=pineapple, provider=Africa, model=PI123, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=yellow, price=null, inStock=false], Product [name=pear, provider=Poland, model=PE123, dateOfIssue=Wed Apr 02 00:00:00 FET 2014, color=Green, price=9.05, inStock=true]]], Subcategory [name=vegetables, products=[Product [name=tomato, provider=Brasil, model=TM123, dateOfIssue=Sat Sep 13 00:00:00 FET 2014, color=red, price=4.05, inStock=true], Product [name=name, provider=Belarus, model=CC123, dateOfIssue=Sat Sep 06 00:00:00 FET 2014, color=green, price=8.35, inStock=true], Product [name=potato, provider=Poland, model=PT123, dateOfIssue=Wed Apr 09 00:00:00 FET 2014, color=brown, price=10.05, inStock=true]]]]], Category [name=computer equipment, subcategories=[Subcategory [name=notebooks, products=[Product [name=MacBook, provider=Apple, model=AR131, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=gray, price=1300.0, inStock=true], Product [name=XO359H, provider=ASUS, model=XC550, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=white, price=null, inStock=false]]]]]]
+10.10.2014 14:23:25 [main] INFO  com.epam.shopwebapp.util.xml.parser.ParsersTester  - STAX: [Category [name=food, subcategories=[Subcategory [name=fruit, products=[Product [name=apple, provider=Poland, model=AP123, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=red, price=12.05, inStock=true], Product [name=pineapple, provider=Africa, model=PI123, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=yellow, price=null, inStock=false], Product [name=pear, provider=Poland, model=PE123, dateOfIssue=Wed Apr 02 00:00:00 FET 2014, color=Green, price=9.05, inStock=true]]], Subcategory [name=vegetables, products=[Product [name=tomato, provider=Brasil, model=TM123, dateOfIssue=Sat Sep 13 00:00:00 FET 2014, color=red, price=4.05, inStock=true], Product [name=name, provider=Belarus, model=CC123, dateOfIssue=Sat Sep 06 00:00:00 FET 2014, color=green, price=8.35, inStock=true], Product [name=potato, provider=Poland, model=PT123, dateOfIssue=Wed Apr 09 00:00:00 FET 2014, color=brown, price=10.05, inStock=true]]]]], Category [name=computer equipment, subcategories=[Subcategory [name=notebooks, products=[Product [name=MacBook, provider=Apple, model=AR131, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=gray, price=1300.0, inStock=true], Product [name=XO359H, provider=ASUS, model=XC550, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=white, price=null, inStock=false]]]]]]
+10.10.2014 14:23:25 [main] INFO  com.epam.shopwebapp.util.xml.parser.ParsersTester  - DOM: [Category [name=food, subcategories=[Subcategory [name=fruit, products=[Product [name=apple, provider=Poland, model=AP123, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=red, price=null, inStock=false], Product [name=pineapple, provider=Africa, model=PI123, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=yellow, price=null, inStock=false], Product [name=pear, provider=Poland, model=PE123, dateOfIssue=Wed Apr 02 00:00:00 FET 2014, color=Green, price=null, inStock=false]]], Subcategory [name=vegetables, products=[Product [name=tomato, provider=Brasil, model=TM123, dateOfIssue=Sat Sep 13 00:00:00 FET 2014, color=red, price=null, inStock=false], Product [name=name, provider=Belarus, model=CC123, dateOfIssue=Sat Sep 06 00:00:00 FET 2014, color=green, price=null, inStock=false], Product [name=potato, provider=Poland, model=PT123, dateOfIssue=Wed Apr 09 00:00:00 FET 2014, color=brown, price=null, inStock=false]]]]], Category [name=computer equipment, subcategories=[Subcategory [name=notebooks, products=[Product [name=MacBook, provider=Apple, model=AR131, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=gray, price=null, inStock=false], Product [name=XO359H, provider=ASUS, model=XC550, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=white, price=null, inStock=false]]]]]]
+10.10.2014 14:23:25 [main] INFO  com.epam.shopwebapp.util.xml.parser.ParsersTester  - SAX: [Category [name=food, subcategories=[Subcategory [name=fruit, products=[Product [name=apple, provider=Poland, model=AP123, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=red, price=12.05, inStock=true], Product [name=pineapple, provider=Africa, model=PI123, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=yellow, price=null, inStock=false], Product [name=pear, provider=Poland, model=PE123, dateOfIssue=Wed Apr 02 00:00:00 FET 2014, color=Green, price=9.05, inStock=true]]], Subcategory [name=vegetables, products=[Product [name=tomato, provider=Brasil, model=TM123, dateOfIssue=Sat Sep 13 00:00:00 FET 2014, color=red, price=4.05, inStock=true], Product [name=name, provider=Belarus, model=CC123, dateOfIssue=Sat Sep 06 00:00:00 FET 2014, color=green, price=8.35, inStock=true], Product [name=potato, provider=Poland, model=PT123, dateOfIssue=Wed Apr 09 00:00:00 FET 2014, color=brown, price=10.05, inStock=true]]]]], Category [name=computer equipment, subcategories=[Subcategory [name=notebooks, products=[Product [name=MacBook, provider=Apple, model=AR131, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=gray, price=1300.0, inStock=true], Product [name=XO359H, provider=ASUS, model=XC550, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=white, price=null, inStock=false]]]]]]
+10.10.2014 14:25:50 [main] INFO  com.epam.shopwebapp.util.xml.parser.ParsersTester  - DOM: [Category [name=food, subcategories=[Subcategory [name=fruit, products=[Product [name=apple, provider=Poland, model=AP123, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=red, price=null, inStock=false], Product [name=pineapple, provider=Africa, model=PI123, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=yellow, price=null, inStock=false], Product [name=pear, provider=Poland, model=PE123, dateOfIssue=Wed Apr 02 00:00:00 FET 2014, color=Green, price=null, inStock=false]]], Subcategory [name=vegetables, products=[Product [name=tomato, provider=Brasil, model=TM123, dateOfIssue=Sat Sep 13 00:00:00 FET 2014, color=red, price=null, inStock=false], Product [name=name, provider=Belarus, model=CC123, dateOfIssue=Sat Sep 06 00:00:00 FET 2014, color=green, price=null, inStock=false], Product [name=potato, provider=Poland, model=PT123, dateOfIssue=Wed Apr 09 00:00:00 FET 2014, color=brown, price=null, inStock=false]]]]], Category [name=computer equipment, subcategories=[Subcategory [name=notebooks, products=[Product [name=MacBook, provider=Apple, model=AR131, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=gray, price=null, inStock=false], Product [name=XO359H, provider=ASUS, model=XC550, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=white, price=null, inStock=false]]]]]]
+10.10.2014 14:25:50 [main] INFO  com.epam.shopwebapp.util.xml.parser.ParsersTester  - SAX: [Category [name=food, subcategories=[Subcategory [name=fruit, products=[Product [name=apple, provider=Poland, model=AP123, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=red, price=12.05, inStock=true], Product [name=pineapple, provider=Africa, model=PI123, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=yellow, price=null, inStock=false], Product [name=pear, provider=Poland, model=PE123, dateOfIssue=Wed Apr 02 00:00:00 FET 2014, color=Green, price=9.05, inStock=true]]], Subcategory [name=vegetables, products=[Product [name=tomato, provider=Brasil, model=TM123, dateOfIssue=Sat Sep 13 00:00:00 FET 2014, color=red, price=4.05, inStock=true], Product [name=name, provider=Belarus, model=CC123, dateOfIssue=Sat Sep 06 00:00:00 FET 2014, color=green, price=8.35, inStock=true], Product [name=potato, provider=Poland, model=PT123, dateOfIssue=Wed Apr 09 00:00:00 FET 2014, color=brown, price=10.05, inStock=true]]]]], Category [name=computer equipment, subcategories=[Subcategory [name=notebooks, products=[Product [name=MacBook, provider=Apple, model=AR131, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=gray, price=1300.0, inStock=true], Product [name=XO359H, provider=ASUS, model=XC550, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=white, price=null, inStock=false]]]]]]
+10.10.2014 14:26:24 [main] INFO  com.epam.shopwebapp.util.xml.parser.ParsersTester  - DOM: [Category [name=food, subcategories=[Subcategory [name=fruit, products=[Product [name=apple, provider=Poland, model=AP123, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=red, price=null, inStock=false], Product [name=pineapple, provider=Africa, model=PI123, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=yellow, price=null, inStock=false], Product [name=pear, provider=Poland, model=PE123, dateOfIssue=Wed Apr 02 00:00:00 FET 2014, color=Green, price=null, inStock=false]]], Subcategory [name=vegetables, products=[Product [name=tomato, provider=Brasil, model=TM123, dateOfIssue=Sat Sep 13 00:00:00 FET 2014, color=red, price=null, inStock=false], Product [name=name, provider=Belarus, model=CC123, dateOfIssue=Sat Sep 06 00:00:00 FET 2014, color=green, price=null, inStock=false], Product [name=potato, provider=Poland, model=PT123, dateOfIssue=Wed Apr 09 00:00:00 FET 2014, color=brown, price=null, inStock=false]]]]], Category [name=computer equipment, subcategories=[Subcategory [name=notebooks, products=[Product [name=MacBook, provider=Apple, model=AR131, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=gray, price=null, inStock=false], Product [name=XO359H, provider=ASUS, model=XC550, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=white, price=null, inStock=false]]]]]]
+10.10.2014 14:26:24 [main] INFO  com.epam.shopwebapp.util.xml.parser.ParsersTester  - SAX: [Category [name=food, subcategories=[Subcategory [name=fruit, products=[Product [name=apple, provider=Poland, model=AP123, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=red, price=12.05, inStock=true], Product [name=pineapple, provider=Africa, model=PI123, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=yellow, price=null, inStock=false], Product [name=pear, provider=Poland, model=PE123, dateOfIssue=Wed Apr 02 00:00:00 FET 2014, color=Green, price=9.05, inStock=true]]], Subcategory [name=vegetables, products=[Product [name=tomato, provider=Brasil, model=TM123, dateOfIssue=Sat Sep 13 00:00:00 FET 2014, color=red, price=4.05, inStock=true], Product [name=name, provider=Belarus, model=CC123, dateOfIssue=Sat Sep 06 00:00:00 FET 2014, color=green, price=8.35, inStock=true], Product [name=potato, provider=Poland, model=PT123, dateOfIssue=Wed Apr 09 00:00:00 FET 2014, color=brown, price=10.05, inStock=true]]]]], Category [name=computer equipment, subcategories=[Subcategory [name=notebooks, products=[Product [name=MacBook, provider=Apple, model=AR131, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=gray, price=1300.0, inStock=true], Product [name=XO359H, provider=ASUS, model=XC550, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=white, price=null, inStock=false]]]]]]
+10.10.2014 14:26:24 [main] INFO  com.epam.shopwebapp.util.xml.parser.ParsersTester  - STAX: [Category [name=food, subcategories=[Subcategory [name=fruit, products=[Product [name=apple, provider=Poland, model=AP123, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=red, price=12.05, inStock=true], Product [name=pineapple, provider=Africa, model=PI123, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=yellow, price=null, inStock=false], Product [name=pear, provider=Poland, model=PE123, dateOfIssue=Wed Apr 02 00:00:00 FET 2014, color=Green, price=9.05, inStock=true]]], Subcategory [name=vegetables, products=[Product [name=tomato, provider=Brasil, model=TM123, dateOfIssue=Sat Sep 13 00:00:00 FET 2014, color=red, price=4.05, inStock=true], Product [name=name, provider=Belarus, model=CC123, dateOfIssue=Sat Sep 06 00:00:00 FET 2014, color=green, price=8.35, inStock=true], Product [name=potato, provider=Poland, model=PT123, dateOfIssue=Wed Apr 09 00:00:00 FET 2014, color=brown, price=10.05, inStock=true]]]]], Category [name=computer equipment, subcategories=[Subcategory [name=notebooks, products=[Product [name=MacBook, provider=Apple, model=AR131, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=gray, price=1300.0, inStock=true], Product [name=XO359H, provider=ASUS, model=XC550, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=white, price=null, inStock=false]]]]]]
+10.10.2014 14:27:21 [main] INFO  com.epam.shopwebapp.util.xml.parser.ParsersTester  - DOM: [Category [name=food, subcategories=[Subcategory [name=fruit, products=[Product [name=apple, provider=Poland, model=AP123, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=red, price=null, inStock=false], Product [name=pineapple, provider=Africa, model=PI123, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=yellow, price=null, inStock=false], Product [name=pear, provider=Poland, model=PE123, dateOfIssue=Wed Apr 02 00:00:00 FET 2014, color=Green, price=null, inStock=false]]], Subcategory [name=vegetables, products=[Product [name=tomato, provider=Brasil, model=TM123, dateOfIssue=Sat Sep 13 00:00:00 FET 2014, color=red, price=null, inStock=false], Product [name=name, provider=Belarus, model=CC123, dateOfIssue=Sat Sep 06 00:00:00 FET 2014, color=green, price=null, inStock=false], Product [name=potato, provider=Poland, model=PT123, dateOfIssue=Wed Apr 09 00:00:00 FET 2014, color=brown, price=null, inStock=false]]]]], Category [name=computer equipment, subcategories=[Subcategory [name=notebooks, products=[Product [name=MacBook, provider=Apple, model=AR131, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=gray, price=null, inStock=false], Product [name=XO359H, provider=ASUS, model=XC550, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=white, price=null, inStock=false]]]]]]
+10.10.2014 14:27:21 [main] INFO  com.epam.shopwebapp.util.xml.parser.ParsersTester  - SAX: [Category [name=food, subcategories=[Subcategory [name=fruit, products=[Product [name=apple, provider=Poland, model=AP123, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=red, price=12.05, inStock=true], Product [name=pineapple, provider=Africa, model=PI123, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=yellow, price=null, inStock=false], Product [name=pear, provider=Poland, model=PE123, dateOfIssue=Wed Apr 02 00:00:00 FET 2014, color=Green, price=9.05, inStock=true]]], Subcategory [name=vegetables, products=[Product [name=tomato, provider=Brasil, model=TM123, dateOfIssue=Sat Sep 13 00:00:00 FET 2014, color=red, price=4.05, inStock=true], Product [name=name, provider=Belarus, model=CC123, dateOfIssue=Sat Sep 06 00:00:00 FET 2014, color=green, price=8.35, inStock=true], Product [name=potato, provider=Poland, model=PT123, dateOfIssue=Wed Apr 09 00:00:00 FET 2014, color=brown, price=10.05, inStock=true]]]]], Category [name=computer equipment, subcategories=[Subcategory [name=notebooks, products=[Product [name=MacBook, provider=Apple, model=AR131, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=gray, price=1300.0, inStock=true], Product [name=XO359H, provider=ASUS, model=XC550, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=white, price=null, inStock=false]]]]]]
+10.10.2014 14:27:21 [main] INFO  com.epam.shopwebapp.util.xml.parser.ParsersTester  - STAX: [Category [name=food, subcategories=[Subcategory [name=fruit, products=[Product [name=apple, provider=Poland, model=AP123, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=red, price=12.05, inStock=true], Product [name=pineapple, provider=Africa, model=PI123, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=yellow, price=null, inStock=false], Product [name=pear, provider=Poland, model=PE123, dateOfIssue=Wed Apr 02 00:00:00 FET 2014, color=Green, price=9.05, inStock=true]]], Subcategory [name=vegetables, products=[Product [name=tomato, provider=Brasil, model=TM123, dateOfIssue=Sat Sep 13 00:00:00 FET 2014, color=red, price=4.05, inStock=true], Product [name=name, provider=Belarus, model=CC123, dateOfIssue=Sat Sep 06 00:00:00 FET 2014, color=green, price=8.35, inStock=true], Product [name=potato, provider=Poland, model=PT123, dateOfIssue=Wed Apr 09 00:00:00 FET 2014, color=brown, price=10.05, inStock=true]]]]], Category [name=computer equipment, subcategories=[Subcategory [name=notebooks, products=[Product [name=MacBook, provider=Apple, model=AR131, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=gray, price=1300.0, inStock=true], Product [name=XO359H, provider=ASUS, model=XC550, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=white, price=null, inStock=false]]]]]]
+13.10.2014 14:16:30 [main] INFO  com.epam.shopwebapp.util.xml.parser.ParsersTester  - DOM: [Category [name=food, subcategories=[Subcategory [name=fruit, products=[Product [name=apple, provider=Poland, model=AP123, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=red, price=null, inStock=false], Product [name=pineapple, provider=Africa, model=PI123, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=yellow, price=null, inStock=false], Product [name=pear, provider=Poland, model=PE123, dateOfIssue=Wed Apr 02 00:00:00 FET 2014, color=Green, price=null, inStock=false]]], Subcategory [name=vegetables, products=[Product [name=tomato, provider=Brasil, model=TM123, dateOfIssue=Sat Sep 13 00:00:00 FET 2014, color=red, price=null, inStock=false], Product [name=name, provider=Belarus, model=CC123, dateOfIssue=Sat Sep 06 00:00:00 FET 2014, color=green, price=null, inStock=false], Product [name=potato, provider=Poland, model=PT123, dateOfIssue=Wed Apr 09 00:00:00 FET 2014, color=brown, price=null, inStock=false]]]]], Category [name=computer equipment, subcategories=[Subcategory [name=notebooks, products=[Product [name=MacBook, provider=Apple, model=AR131, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=gray, price=null, inStock=false], Product [name=XO359H, provider=ASUS, model=XC550, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=white, price=null, inStock=false]]]]]]
+13.10.2014 14:16:30 [main] INFO  com.epam.shopwebapp.util.xml.parser.ParsersTester  - STAX: [Category [name=food, subcategories=[Subcategory [name=fruit, products=[Product [name=apple, provider=Poland, model=AP123, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=red, price=12.05, inStock=true], Product [name=pineapple, provider=Africa, model=PI123, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=yellow, price=null, inStock=false], Product [name=pear, provider=Poland, model=PE123, dateOfIssue=Wed Apr 02 00:00:00 FET 2014, color=Green, price=9.05, inStock=true]]], Subcategory [name=vegetables, products=[Product [name=tomato, provider=Brasil, model=TM123, dateOfIssue=Sat Sep 13 00:00:00 FET 2014, color=red, price=4.05, inStock=true], Product [name=name, provider=Belarus, model=CC123, dateOfIssue=Sat Sep 06 00:00:00 FET 2014, color=green, price=8.35, inStock=true], Product [name=potato, provider=Poland, model=PT123, dateOfIssue=Wed Apr 09 00:00:00 FET 2014, color=brown, price=10.05, inStock=true]]]]], Category [name=computer equipment, subcategories=[Subcategory [name=notebooks, products=[Product [name=MacBook, provider=Apple, model=AR131, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=gray, price=1300.0, inStock=true], Product [name=XO359H, provider=ASUS, model=XC550, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=white, price=null, inStock=false]]]]]]
+13.10.2014 14:16:30 [main] INFO  com.epam.shopwebapp.util.xml.parser.ParsersTester  - SAX: [Category [name=food, subcategories=[Subcategory [name=fruit, products=[Product [name=apple, provider=Poland, model=AP123, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=red, price=12.05, inStock=true], Product [name=pineapple, provider=Africa, model=PI123, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=yellow, price=null, inStock=false], Product [name=pear, provider=Poland, model=PE123, dateOfIssue=Wed Apr 02 00:00:00 FET 2014, color=Green, price=9.05, inStock=true]]], Subcategory [name=vegetables, products=[Product [name=tomato, provider=Brasil, model=TM123, dateOfIssue=Sat Sep 13 00:00:00 FET 2014, color=red, price=4.05, inStock=true], Product [name=name, provider=Belarus, model=CC123, dateOfIssue=Sat Sep 06 00:00:00 FET 2014, color=green, price=8.35, inStock=true], Product [name=potato, provider=Poland, model=PT123, dateOfIssue=Wed Apr 09 00:00:00 FET 2014, color=brown, price=10.05, inStock=true]]]]], Category [name=computer equipment, subcategories=[Subcategory [name=notebooks, products=[Product [name=MacBook, provider=Apple, model=AR131, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=gray, price=1300.0, inStock=true], Product [name=XO359H, provider=ASUS, model=XC550, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=white, price=null, inStock=false]]]]]]
+13.10.2014 14:18:03 [main] INFO  com.epam.shopwebapp.util.xml.parser.ParsersTester  - SAX: [Category [name=food, subcategories=[Subcategory [name=fruit, products=[Product [name=apple, provider=Poland, model=AP123, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=red, price=12.05, inStock=true], Product [name=pineapple, provider=Africa, model=PI123, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=yellow, price=null, inStock=false], Product [name=pear, provider=Poland, model=PE123, dateOfIssue=Wed Apr 02 00:00:00 FET 2014, color=Green, price=9.05, inStock=true]]], Subcategory [name=vegetables, products=[Product [name=tomato, provider=Brasil, model=TM123, dateOfIssue=Sat Sep 13 00:00:00 FET 2014, color=red, price=4.05, inStock=true], Product [name=name, provider=Belarus, model=CC123, dateOfIssue=Sat Sep 06 00:00:00 FET 2014, color=green, price=8.35, inStock=true], Product [name=potato, provider=Poland, model=PT123, dateOfIssue=Wed Apr 09 00:00:00 FET 2014, color=brown, price=10.05, inStock=true]]]]], Category [name=computer equipment, subcategories=[Subcategory [name=notebooks, products=[Product [name=MacBook, provider=Apple, model=AR131, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=gray, price=1300.0, inStock=true], Product [name=XO359H, provider=ASUS, model=XC550, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=white, price=null, inStock=false]]]]]]
+13.10.2014 14:18:03 [main] INFO  com.epam.shopwebapp.util.xml.parser.ParsersTester  - STAX: [Category [name=food, subcategories=[Subcategory [name=fruit, products=[Product [name=apple, provider=Poland, model=AP123, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=red, price=12.05, inStock=true], Product [name=pineapple, provider=Africa, model=PI123, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=yellow, price=null, inStock=false], Product [name=pear, provider=Poland, model=PE123, dateOfIssue=Wed Apr 02 00:00:00 FET 2014, color=Green, price=9.05, inStock=true]]], Subcategory [name=vegetables, products=[Product [name=tomato, provider=Brasil, model=TM123, dateOfIssue=Sat Sep 13 00:00:00 FET 2014, color=red, price=4.05, inStock=true], Product [name=name, provider=Belarus, model=CC123, dateOfIssue=Sat Sep 06 00:00:00 FET 2014, color=green, price=8.35, inStock=true], Product [name=potato, provider=Poland, model=PT123, dateOfIssue=Wed Apr 09 00:00:00 FET 2014, color=brown, price=10.05, inStock=true]]]]], Category [name=computer equipment, subcategories=[Subcategory [name=notebooks, products=[Product [name=MacBook, provider=Apple, model=AR131, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=gray, price=1300.0, inStock=true], Product [name=XO359H, provider=ASUS, model=XC550, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=white, price=null, inStock=false]]]]]]
+13.10.2014 14:18:03 [main] INFO  com.epam.shopwebapp.util.xml.parser.ParsersTester  - DOM: [Category [name=food, subcategories=[Subcategory [name=fruit, products=[Product [name=apple, provider=Poland, model=AP123, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=red, price=null, inStock=false], Product [name=pineapple, provider=Africa, model=PI123, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=yellow, price=null, inStock=false], Product [name=pear, provider=Poland, model=PE123, dateOfIssue=Wed Apr 02 00:00:00 FET 2014, color=Green, price=null, inStock=false]]], Subcategory [name=vegetables, products=[Product [name=tomato, provider=Brasil, model=TM123, dateOfIssue=Sat Sep 13 00:00:00 FET 2014, color=red, price=null, inStock=false], Product [name=name, provider=Belarus, model=CC123, dateOfIssue=Sat Sep 06 00:00:00 FET 2014, color=green, price=null, inStock=false], Product [name=potato, provider=Poland, model=PT123, dateOfIssue=Wed Apr 09 00:00:00 FET 2014, color=brown, price=null, inStock=false]]]]], Category [name=computer equipment, subcategories=[Subcategory [name=notebooks, products=[Product [name=MacBook, provider=Apple, model=AR131, dateOfIssue=Sun Aug 31 00:00:00 FET 2014, color=gray, price=null, inStock=false], Product [name=XO359H, provider=ASUS, model=XC550, dateOfIssue=Wed Sep 03 00:00:00 FET 2014, color=white, price=null, inStock=false]]]]]]
